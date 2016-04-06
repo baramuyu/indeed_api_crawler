@@ -1,0 +1,16 @@
+2016-03-10 23:23:47,971 indeed_api: INFO: Start
+2016-03-10 23:23:47,972 indeed_api: INFO: Zip file is loaded. Zipcode count:7
+2016-03-10 23:23:47,972 indeed_api: INFO: Processing...94901
+2016-03-10 23:23:48,334 indeed_api: INFO: 1057 job found in san rafael, 
+2016-03-10 23:24:02,361 indeed_api: INFO: Processing...34050
+2016-03-10 23:24:02,529 indeed_api: INFO: No record in this zip area. 34050
+2016-03-10 23:24:02,530 indeed_api: INFO: Processing...34034
+2016-03-10 23:24:02,699 indeed_api: INFO: No record in this zip area. 34034
+2016-03-10 23:24:02,699 indeed_api: INFO: Processing...99553
+2016-03-10 23:24:02,862 indeed_api: INFO: No record in this zip area. 99553
+2016-03-10 23:24:02,862 indeed_api: INFO: Processing...99571
+2016-03-10 23:24:03,025 indeed_api: INFO: No record in this zip area. 99571
+2016-03-10 23:24:03,025 indeed_api: INFO: Processing...99583
+2016-03-10 23:24:06,102 indeed_api: INFO: No record in this zip area. 99583
+2016-03-10 23:24:06,103 indeed_api: INFO: Processing...99612
+2016-03-10 23:24:06,303 indeed_api: INFO: No record in this zip area. 99612

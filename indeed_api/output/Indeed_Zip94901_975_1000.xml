@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>976</start>
+    <end>985</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>98</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Sr. Big Data Engineer</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>Oakland</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Oakland, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Wed, 17 Feb 2016 21:39:08 GMT</date>
+                    <snippet>Sr. Big Data Engineer If you are a Senior Big Data Engineer with experience, please read on! Interested in media and entertainment? We are the brains behind</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=86a854679cc246f8&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v02sbqgo960</url>
+                    <onmousedown>indeed_clk(this, &#039;9384&#039;);</onmousedown>
+                    <latitude>37.78022</latitude>
+                    <longitude>-122.21429</longitude>
+                    <jobkey>86a854679cc246f8</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Oakland, CA 94601</formattedLocationFull>
+                    <formattedRelativeTime>22 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Engineer - Top Salary!</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Wed, 27 Jan 2016 04:13:41 GMT</date>
+                    <snippet>We utilize Python, Hadoop, and SQL with our software, so will be looking for expertise in that ball park. Data Engineer - Top Salary!...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=4ad1beaac14ec16e&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v02sbqgo960</url>
+                    <onmousedown>indeed_clk(this, &#039;9384&#039;);</onmousedown>
+                    <latitude>37.793957</latitude>
+                    <longitude>-122.46154</longitude>
+                    <jobkey>4ad1beaac14ec16e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94129</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Cloud Engineer -Big Data Experience!</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>Oakland</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Oakland, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Wed, 17 Feb 2016 21:39:06 GMT</date>
+                    <snippet>Senior Cloud Engineer -Big Data Experience! If you are a Senior Cloud Engineer with experience, please read on! Interested in media and entertainment? We are</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=37589e2bed275940&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v02sbqgo960</url>
+                    <onmousedown>indeed_clk(this, &#039;9384&#039;);</onmousedown>
+                    <latitude>37.78022</latitude>
+                    <longitude>-122.21429</longitude>
+                    <jobkey>37589e2bed275940</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Oakland, CA 94601</formattedLocationFull>
+                    <formattedRelativeTime>22 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr DevOps Engineer - Security</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Sat, 09 Jan 2016 03:19:02 GMT</date>
+                    <snippet>We use basically every service Amazon AWS offers, Heroku, Hadoop, and more. Sr DevOps Engineer - Security Based in San Francisco, with other distributed offices...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e4954ee3b0f8bb00&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v02sbqgo960</url>
+                    <onmousedown>indeed_clk(this, &#039;9384&#039;);</onmousedown>
+                    <latitude>37.78022</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>e4954ee3b0f8bb00</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94102</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer - Data Infrastructure - Hadoop, Pig, MySQL</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Fri, 19 Feb 2016 21:45:46 GMT</date>
+                    <snippet>Hadoop, Pig, Hive, Presto, Spark. Software Engineer - Data Infrastructure - Hadoop, Pig, MySQL If you are a Software Engineer with Data Infrastructure, please...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=ccad1d6c3a6d4307&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v02sbqgo960</url>
+                    <onmousedown>indeed_clk(this, &#039;9384&#039;);</onmousedown>
+                    <latitude>37.76923</latitude>
+                    <longitude>-122.39011</longitude>
+                    <jobkey>ccad1d6c3a6d4307</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94107</formattedLocationFull>
+                    <formattedRelativeTime>20 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Analyst- Leading Commerce Platform</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Thu, 14 Jan 2016 21:36:03 GMT</date>
+                    <snippet>Data Analyst- Leading Commerce Platform If you are a Data Analyst with experience, please read on! We are the leading mobile commerce platform in North</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=908643ec05e709bf&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v02sbqgo960</url>
+                    <onmousedown>indeed_clk(this, &#039;9384&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>908643ec05e709bf</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Data Engineer - VC Funded Image Recognition Startup!</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Wed, 06 Jan 2016 03:09:05 GMT</date>
+                    <snippet>Senior Data Engineer - VC Funded Image Recognition Startup! Founded in 2011, we are the worlds leading image-recognition platform and visual browser for brands</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=15827345b1ff41e1&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v02sbqgo960</url>
+                    <onmousedown>indeed_clk(this, &#039;9384&#039;);</onmousedown>
+                    <latitude>37.79121</latitude>
+                    <longitude>-122.39561</longitude>
+                    <jobkey>15827345b1ff41e1</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94104</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Tue, 12 Jan 2016 09:28:37 GMT</date>
+                    <snippet>What You Will Be Doing Build a Java-based REST webservice, update a Hadoop job, write a new Storm bolt and create a new Django entity....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=7dace9d75843ffd7&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v02sbqgo960</url>
+                    <onmousedown>indeed_clk(this, &#039;9384&#039;);</onmousedown>
+                    <latitude>37.76923</latitude>
+                    <longitude>-122.39011</longitude>
+                    <jobkey>7dace9d75843ffd7</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94107</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Data Scientist - Remote Sensing for Real World Intelligence!</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Tue, 23 Feb 2016 09:56:38 GMT</date>
+                    <snippet>Sr. Data Scientist - Remote Sensing for Real World Intelligence! If you are a Sr. Data Scientist with experience analyzing and developing models with geo...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=fd8f41eef6bf7351&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v02sbqgo960</url>
+                    <onmousedown>indeed_clk(this, &#039;9384&#039;);</onmousedown>
+                    <latitude>37.78022</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>fd8f41eef6bf7351</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94102</formattedLocationFull>
+                    <formattedRelativeTime>16 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Platform Engineer</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Sat, 06 Feb 2016 02:59:17 GMT</date>
+                    <snippet>Hadoop, Postgres, Storm, Kafka. Senior Platform Engineer If you are a Senior Platform Engineer with experience, please read on!...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=fcc1ab344a03bf6d&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v02sbqgo960</url>
+                    <onmousedown>indeed_clk(this, &#039;9384&#039;);</onmousedown>
+                    <latitude>37.771976</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>fcc1ab344a03bf6d</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

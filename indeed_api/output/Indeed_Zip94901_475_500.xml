@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>476</start>
+    <end>485</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>48</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Manager, Software Development - Cloud Enforcement</jobtitle>
+                    <company>OpenDNS</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>OpenDNS</source>
+                    <date>Sat, 20 Feb 2016 02:34:35 GMT</date>
+                    <snippet>About OpenDNS, now part of Cisco: OpenDNS is a leading provider of network security and DNS services, enabling the world to connect to the Internet with</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=3b5d520a738c6ab5&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKV0Mtw5Ye_ADMShbJTWrnY&amp;indpubnum=1986175114212579&amp;atk=1adi8up8pbqcq9ou</url>
+                    <onmousedown>indeed_clk(this, &#039;2435&#039;);</onmousedown>
+                    <latitude>37.77504</latitude>
+                    <longitude>-122.39888</longitude>
+                    <jobkey>3b5d520a738c6ab5</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94107</formattedLocationFull>
+                    <formattedRelativeTime>20 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Software Engineer - Front End</jobtitle>
+                    <company>StyleSeat</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>StyleSeat</source>
+                    <date>Tue, 08 Dec 2015 21:52:22 GMT</date>
+                    <snippet>We use Python, Django, AngularJS, MySQL, Redshift, Hadoop, Spark, Flask, ElasticSearch, RabbitMQ, Redis, Celery, CircleCI, Docker, Vagrant, Fabric, Ansible, and...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=62862764d7751abe&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKV0Mtw5Ye_ADMShbJTWrnY&amp;indpubnum=1986175114212579&amp;atk=1adi8up8pbqcq9ou</url>
+                    <onmousedown>indeed_clk(this, &#039;2435&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>62862764d7751abe</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Big Data Platform Engineer</jobtitle>
+                    <company>Cypress HCM</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Cypress HCM</source>
+                    <date>Wed, 24 Feb 2016 09:40:36 GMT</date>
+                    <snippet>Hadoop, HDFS, Spark Hive, Pig, Oozie, Zoo Keeper, Hbase, Mongo. High-volume real-time data ingestion frameworks and automate ingesting various data sources into...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=d83e0dfa3d9c601b&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKV0Mtw5Ye_ADMShbJTWrnY&amp;indpubnum=1986175114212579&amp;atk=1adi8up8pbqcq9ou</url>
+                    <onmousedown>indeed_clk(this, &#039;2435&#039;);</onmousedown>
+                    <latitude>37.79377</latitude>
+                    <longitude>-122.39665</longitude>
+                    <jobkey>d83e0dfa3d9c601b</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94111</formattedLocationFull>
+                    <formattedRelativeTime>15 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer, Test and Automation - Customer Scenario</jobtitle>
+                    <company>Cloudera</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Cloudera</source>
+                    <date>Thu, 25 Feb 2016 02:34:04 GMT</date>
+                    <snippet>Experience with Apache Hadoop and its related technologies a big plus. Use your understanding of the Hadoop eco-system to build reliable and scalable automated...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=ba273f42b2fac62c&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKV0Mtw5Ye_ADMShbJTWrnY&amp;indpubnum=1986175114212579&amp;atk=1adi8up8pbqcq9ou</url>
+                    <onmousedown>indeed_clk(this, &#039;2435&#039;);</onmousedown>
+                    <latitude>37.79269</latitude>
+                    <longitude>-122.40168</longitude>
+                    <jobkey>ba273f42b2fac62c</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94104</formattedLocationFull>
+                    <formattedRelativeTime>15 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Consultant - West</jobtitle>
+                    <company>Hortonworks</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Hortonworks</source>
+                    <date>Sat, 23 Jan 2016 06:49:30 GMT</date>
+                    <snippet>Experience setting up multi-node Hadoop clusters. Keep current with the Hadoop Big Data ecosystem technologies....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=4e62dbafe02a9125&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKV0Mtw5Ye_ADMShbJTWrnY&amp;indpubnum=1986175114212579&amp;atk=1adi8up8pbqcq9ou</url>
+                    <onmousedown>indeed_clk(this, &#039;2435&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>4e62dbafe02a9125</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Business Analytics Intern (Summer 2016)</jobtitle>
+                    <company>Pandora Media, Inc.</company>
+                    <city>Oakland</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Oakland, CA</formattedLocation>
+                    <source>Pandora Media, Inc.</source>
+                    <date>Tue, 09 Feb 2016 02:03:10 GMT</date>
+                    <snippet>At Pandora, we&#039;re a unique collection of engineers, musicians, designers, marketers, and world-class sellers with a common goal: to enrich lives by delivering</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=76359d628eddaf7e&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKV0Mtw5Ye_ADMShbJTWrnY&amp;indpubnum=1986175114212579&amp;atk=1adi8up8pbqcq9ou</url>
+                    <onmousedown>indeed_clk(this, &#039;2435&#039;);</onmousedown>
+                    <latitude>37.802197</latitude>
+                    <longitude>-122.26923</longitude>
+                    <jobkey>76359d628eddaf7e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Oakland, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Lead BSA - Enterprise Data Warehouse (EDW)</jobtitle>
+                    <company>Model Metrics</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Model Metrics</source>
+                    <date>Fri, 12 Feb 2016 01:27:10 GMT</date>
+                    <snippet>This platform also includes management of a Big Data Hadoop platform to store unstructured application log data that is generated by the Salesforce product...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a33b6acbe366a7ab&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKV0Mtw5Ye_ADMShbJTWrnY&amp;indpubnum=1986175114212579&amp;atk=1adi8up8pbqcq9ou</url>
+                    <onmousedown>indeed_clk(this, &#039;2435&#039;);</onmousedown>
+                    <latitude>37.792915</latitude>
+                    <longitude>-122.39254</longitude>
+                    <jobkey>a33b6acbe366a7ab</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>28 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Ruby on Rails Developer</jobtitle>
+                    <company>Dictionary.com</company>
+                    <city>Oakland</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Oakland, CA</formattedLocation>
+                    <source>Dictionary.com</source>
+                    <date>Fri, 29 Jan 2016 04:06:11 GMT</date>
+                    <snippet>You’ve used Hadoop or other distributed MapReduce technologies. As a true, polyglot developer, you have mastered multiple technology stacks, and with them, you...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=91b229e72d84ca2e&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKV0Mtw5Ye_ADMShbJTWrnY&amp;indpubnum=1986175114212579&amp;atk=1adi8up8pbqcq9ou</url>
+                    <onmousedown>indeed_clk(this, &#039;2435&#039;);</onmousedown>
+                    <latitude>37.802197</latitude>
+                    <longitude>-122.26923</longitude>
+                    <jobkey>91b229e72d84ca2e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Oakland, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior BI Test Engineer</jobtitle>
+                    <company>Lending Club</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Lending Club</source>
+                    <date>Tue, 23 Feb 2016 00:34:35 GMT</date>
+                    <snippet>Exposure to Hadoop, MapReduce, Hive with hands-on experience in supporting Hadoop applications and testing. Lending Club opened in 2007 with one simple mission:...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a6bcb21fa528d1f1&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKV0Mtw5Ye_ADMShbJTWrnY&amp;indpubnum=1986175114212579&amp;atk=1adi8up8pbqcq9ou</url>
+                    <onmousedown>indeed_clk(this, &#039;2435&#039;);</onmousedown>
+                    <latitude>37.788906</latitude>
+                    <longitude>-122.40045</longitude>
+                    <jobkey>a6bcb21fa528d1f1</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>17 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Systems Engineer - Data Platform</jobtitle>
+                    <company>OpenDNS</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>OpenDNS</source>
+                    <date>Sun, 22 Nov 2015 07:31:26 GMT</date>
+                    <snippet>Hadoop ecosystem experience (HDFS/MapReduce/HBase). About OpenDNS, now part of Cisco:....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=d0d719436735a2cf&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKV0Mtw5Ye_ADMShbJTWrnY&amp;indpubnum=1986175114212579&amp;atk=1adi8up8pbqcq9ou</url>
+                    <onmousedown>indeed_clk(this, &#039;2435&#039;);</onmousedown>
+                    <latitude>37.77504</latitude>
+                    <longitude>-122.39888</longitude>
+                    <jobkey>d0d719436735a2cf</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94107</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

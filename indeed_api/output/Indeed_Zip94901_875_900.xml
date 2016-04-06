@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>876</start>
+    <end>885</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>88</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Sr. Security Researcher - Engineering Focus</jobtitle>
+                    <company>OpenDNS</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>OpenDNS</source>
+                    <date>Mon, 14 Dec 2015 06:42:26 GMT</date>
+                    <snippet>About OpenDNS, now part of Cisco: OpenDNS is a leading provider of network security and DNS services, enabling the world to connect to the Internet with</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=09cd130ccbe42b4f&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv1db9faevb</url>
+                    <onmousedown>indeed_clk(this, &#039;8345&#039;);</onmousedown>
+                    <latitude>37.77504</latitude>
+                    <longitude>-122.39888</longitude>
+                    <jobkey>09cd130ccbe42b4f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94107</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior DevOps Engineer for Mobile Saas Company</jobtitle>
+                    <company>Workbridge Associates</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Workbridge Associates</source>
+                    <date>Wed, 17 Feb 2016 05:51:47 GMT</date>
+                    <snippet>Popular mobile engagement startup has an open job for a Senior DevOps Engineer in the downtown San Francisco office. The company creates engagement plans for</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=26bb513d0ca1eac0&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv1db9faevb</url>
+                    <onmousedown>indeed_clk(this, &#039;8345&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>26bb513d0ca1eac0</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>23 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>C++ Engineer</jobtitle>
+                    <company>Elevate Recruiting Group</company>
+                    <city>South San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>South San Francisco, CA</formattedLocation>
+                    <source>Elevate Recruiting Group</source>
+                    <date>Sat, 27 Feb 2016 07:21:10 GMT</date>
+                    <snippet>High degree of integrity, passion and drive (must) Can do attitude and drive for excellence (must) Strong Computer Science fundamentals (must) Strong...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=0358c4e6f03cd52a&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv1db9faevb</url>
+                    <onmousedown>indeed_clk(this, &#039;8345&#039;);</onmousedown>
+                    <latitude>37.653847</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>0358c4e6f03cd52a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>South San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>13 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Database Administrator (SAP Sybase ASE)</jobtitle>
+                    <company>ETS Inc.</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Tue, 22 Dec 2015 21:41:13 GMT</date>
+                    <snippet>Exposure or understanding of BigData technologies like Hadoop, Greenplum and Spark. Senior Database Administrator*....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a7bc18008d0406d2&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv1db9faevb</url>
+                    <onmousedown>indeed_clk(this, &#039;8345&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>a7bc18008d0406d2</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Development Manager</jobtitle>
+                    <company>NelsonJobs</company>
+                    <city>Alameda</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Alameda, CA</formattedLocation>
+                    <source>NelsonJobs</source>
+                    <date>Fri, 05 Feb 2016 05:27:52 GMT</date>
+                    <snippet>Hadoop, Cassandra, Kafka, Redis, Elastic Search, Spark, Kibana. We have an exciting opportunity for with our client who is seeking a hands-on Software...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=3dfe684aaee1c0a3&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv1db9faevb</url>
+                    <onmousedown>indeed_clk(this, &#039;8345&#039;);</onmousedown>
+                    <latitude>37.763737</latitude>
+                    <longitude>-122.23627</longitude>
+                    <jobkey>3dfe684aaee1c0a3</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Alameda, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Principal Full Stack Developer (JavaScript, Node.js) [San Francisco, CA]</jobtitle>
+                    <company>WizioTec</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>WizioTec</source>
+                    <date>Tue, 12 Jan 2016 11:36:31 GMT</date>
+                    <snippet>A lot of what they are building involves scaling to massive volumes of web transactions and analytics/metrics which will require technologies like AWS, Hadoop,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e8c7da962cfa116d&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv1db9faevb</url>
+                    <onmousedown>indeed_clk(this, &#039;8345&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>e8c7da962cfa116d</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Product Manager, Interoperability &amp; Data APIs</jobtitle>
+                    <company>AdRoll</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Adroll</source>
+                    <date>Wed, 06 Jan 2016 22:52:13 GMT</date>
+                    <snippet>About the Role: AdRoll is seeking a Product leader to drive a brand new product initiative. At AdRoll, we believe that marketers want to use best of breed</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=f298aef6311ce881&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv1db9faevb</url>
+                    <onmousedown>indeed_clk(this, &#039;8345&#039;);</onmousedown>
+                    <latitude>37.781536</latitude>
+                    <longitude>-122.40823</longitude>
+                    <jobkey>f298aef6311ce881</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Talend Developer</jobtitle>
+                    <company>XcellFORCE LLC</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Dice</source>
+                    <date>Fri, 04 Mar 2016 03:04:06 GMT</date>
+                    <snippet>Familiar with all components of the BigData stack in detail, e.g., Hadoop, Pig, Hive, HBase, Oozie Advanced experience with large BigData or Data warehouse...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=9121d8df548a4214&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv1db9faevb</url>
+                    <onmousedown>indeed_clk(this, &#039;8345&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>9121d8df548a4214</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>7 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>QA Engineer</jobtitle>
+                    <company>iMATCHATIVE</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Dice</source>
+                    <date>Thu, 25 Feb 2016 13:11:54 GMT</date>
+                    <snippet>We have a modern technology stack including Python, AngularJS, Flask, Hadoop (HDFS), relational databases/query engines, and Elasticsearch....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=499ea395ee91c45b&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv1db9faevb</url>
+                    <onmousedown>indeed_clk(this, &#039;8345&#039;);</onmousedown>
+                    <latitude>37.785713</latitude>
+                    <longitude>-122.39011</longitude>
+                    <jobkey>499ea395ee91c45b</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>14 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Software Engineer in Test, - Communities</jobtitle>
+                    <company>Salesforce</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Salesforce</source>
+                    <date>Fri, 11 Dec 2015 22:26:38 GMT</date>
+                    <snippet>Experience working with large datasets, preferably using tools like Hadoop, Pig or Hive. Senior Software Engineer in Test....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=df76d252a0ccdaec&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv1db9faevb</url>
+                    <onmousedown>indeed_clk(this, &#039;8345&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>df76d252a0ccdaec</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

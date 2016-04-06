@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>851</start>
+    <end>860</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>85</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Intern IPG Data Product Management</jobtitle>
+                    <company>Autodesk</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Autodesk</source>
+                    <date>Sat, 09 Jan 2016 13:59:04 GMT</date>
+                    <snippet>Working with cutting edge analytics tools like Kafka, Splunk, Hadoop, Google Big Query, Tableau and more. IPG Data Product Management Intern – 2016 (15WD19661)....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=1cd4b57b82731301&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uuqbb8ssf8i</url>
+                    <onmousedown>indeed_clk(this, &#039;8110&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>1cd4b57b82731301</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Manager Sales Operations Analytics</jobtitle>
+                    <company>Cope Staffing</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Cope Staffing</source>
+                    <date>Mon, 01 Feb 2016 11:07:17 GMT</date>
+                    <snippet>Our client is experiencing tremendous business growth and is seeking to add an outstanding leader to join their Sales Operations team, which is tasked with</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=7e271deb14c19d78&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uuqbb8ssf8i</url>
+                    <onmousedown>indeed_clk(this, &#039;8110&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>7e271deb14c19d78</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer - TellApart (Platform Infrastructure: Data Platform Team)</jobtitle>
+                    <company>Twitter</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Twitter</source>
+                    <date>Sat, 05 Mar 2016 13:15:58 GMT</date>
+                    <snippet>Experience working with the Lambda Architecture and systems like Hadoop, MapReduce, HBase, Hive, Voldemort, Azkaban, Kafka, Spark, etc....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=81333a6f713f95ba&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uuqbb8ssf8i</url>
+                    <onmousedown>indeed_clk(this, &#039;8110&#039;);</onmousedown>
+                    <latitude>37.776848</latitude>
+                    <longitude>-122.41679</longitude>
+                    <jobkey>81333a6f713f95ba</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>5 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Ruby on Rails Engineer</jobtitle>
+                    <company>Elevate Recruiting Group</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Elevate Recruiting Group</source>
+                    <date>Wed, 03 Feb 2016 10:48:10 GMT</date>
+                    <snippet>Year Founded: 2008 # of employees: 25+ employees Location: San Francisco, CA Current Co. revenue/funding: Series B Position Title: Ruby on Rails Engineer...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=2d8e0ac958e43bab&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uuqbb8ssf8i</url>
+                    <onmousedown>indeed_clk(this, &#039;8110&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>2d8e0ac958e43bab</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Software Engineer - TellApart (Platform Infrastructure: Core Services Team)</jobtitle>
+                    <company>Twitter</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Twitter</source>
+                    <date>Sat, 05 Mar 2016 13:15:46 GMT</date>
+                    <snippet>Understanding of inner workings of technologies like Hadoop, MapReduce, HBase, Voldemort, MongoDB, Cloudera CDH, Spark, Parquet, Scalding, Kafka, Zookeeper,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=19af8c744ac71d57&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uuqbb8ssf8i</url>
+                    <onmousedown>indeed_clk(this, &#039;8110&#039;);</onmousedown>
+                    <latitude>37.776848</latitude>
+                    <longitude>-122.41679</longitude>
+                    <jobkey>19af8c744ac71d57</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>5 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer - Internet Marketing Automation TH-Bangkok</jobtitle>
+                    <company>Big Wednesday Digital</company>
+                    <city>Alameda</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Alameda, CA</formattedLocation>
+                    <source>CareerBuilder</source>
+                    <date>Thu, 10 Mar 2016 01:42:09 GMT</date>
+                    <snippet>Knowledge of NoSQL technologies such as Hadoop, Redis, Cassandra, ElasticSearch. Build the most sophisticated internet marketing system in the world!!...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b199b07223cdb8fe&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uuqbb8ssf8i</url>
+                    <onmousedown>indeed_clk(this, &#039;8110&#039;);</onmousedown>
+                    <latitude>37.758244</latitude>
+                    <longitude>-122.25824</longitude>
+                    <jobkey>b199b07223cdb8fe</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Alameda, CA 94501</formattedLocationFull>
+                    <formattedRelativeTime>1 day ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Technical Program Director, Engineering</jobtitle>
+                    <company>Marin Software</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Marin Software</source>
+                    <date>Mon, 14 Dec 2015 19:52:19 GMT</date>
+                    <snippet>A Technical Program Director is required at Marin Software due to impressive growth and a move to a Big Data platform to offer unprecedented scale through our</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=5f184960fe46f93a&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uuqbb8ssf8i</url>
+                    <onmousedown>indeed_clk(this, &#039;8110&#039;);</onmousedown>
+                    <latitude>37.792225</latitude>
+                    <longitude>-122.3942</longitude>
+                    <jobkey>5f184960fe46f93a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Customer Success Architect /Technical Manager</jobtitle>
+                    <company>6sense</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>6sense</source>
+                    <date>Thu, 12 Nov 2015 22:05:50 GMT</date>
+                    <snippet>Job title: Customer Success Architect /Technical Manager Preferred Skills Previous consulting experience Experience with productivity tools, i.e. Excel,</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=c2be03f7f1de093c&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uuqbb8ssf8i</url>
+                    <onmousedown>indeed_clk(this, &#039;8110&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>c2be03f7f1de093c</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Data Engineer (Hadoop, Java)</jobtitle>
+                    <company>StubHub</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Monster</source>
+                    <date>Thu, 10 Mar 2016 01:00:11 GMT</date>
+                    <snippet>This is a FT role on our Data Development/Engineering team. Big Data Engineer (Hadoop, Java) Are you an expert of all-things-data? Do you thrive on building</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=7666d73f7e681ff8&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uuqbb8ssf8i</url>
+                    <onmousedown>indeed_clk(this, &#039;8110&#039;);</onmousedown>
+                    <latitude>37.78943</latitude>
+                    <longitude>-122.39515</longitude>
+                    <jobkey>7666d73f7e681ff8</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>1 day ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Infrastructure Engineer - Search</jobtitle>
+                    <company>Scribd</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Scribd</source>
+                    <date>Thu, 03 Dec 2015 17:52:54 GMT</date>
+                    <snippet>Because this team works on features including recommendations, search, payments and the mobile app API, we use a wide variety of technologies including Ruby on...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=136f494b8d94a4ed&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uuqbb8ssf8i</url>
+                    <onmousedown>indeed_clk(this, &#039;8110&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>136f494b8d94a4ed</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

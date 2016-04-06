@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>51</start>
+    <end>60</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>5</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Sr. Field Engineer</jobtitle>
+                    <company>EMC Corporation</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>EMC Corporation</source>
+                    <date>Tue, 08 Mar 2016 23:35:05 GMT</date>
+                    <snippet>5+ years experience in software development, including languages, systems and frameworks such as Spring/Java, Ruby/Rails, Go, messaging (RabbitMQ/AMQP, JMS),...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=f04aad6cdfc5d5b7&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujofb8sr9be</url>
+                    <onmousedown>indeed_clk(this, &#039;6795&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>f04aad6cdfc5d5b7</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Data Engineer</jobtitle>
+                    <company>Instacart</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Instacart</source>
+                    <date>Sun, 28 Feb 2016 07:26:08 GMT</date>
+                    <snippet>Working experience with variety of data storage technology, including columnar databases and Hadoop ecosystem....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e49269d24453b9c7&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujofb8sr9be</url>
+                    <onmousedown>indeed_clk(this, &#039;6795&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>e49269d24453b9c7</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>11 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Tech Yahoo, Sr. Software Development Engineer</jobtitle>
+                    <company>Yahoo! Inc.</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Yahoo! Inc.</source>
+                    <date>Sat, 13 Feb 2016 11:09:55 GMT</date>
+                    <snippet>Explorer: Software Engineer A little about us Flurry Analytics is the world’s leading mobile analytics product, helping over 125,000 companies analyze more</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=3bba441641b71a28&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujofb8sr9be</url>
+                    <onmousedown>indeed_clk(this, &#039;6795&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>3bba441641b71a28</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>26 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Database Engineer (Big Data)</jobtitle>
+                    <company>Jobsbridge.Inc</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Tue, 19 Jan 2016 15:13:47 GMT</date>
+                    <snippet>BS in CS or MIS required or related experience 1+ years of practical, hands-on experience required Work with existing and designing large-scale data models</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a2c28cd18bbed82d&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujofb8sr9be</url>
+                    <onmousedown>indeed_clk(this, &#039;6795&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>a2c28cd18bbed82d</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Manager, Cloud Enforcement</jobtitle>
+                    <company>Cisco Systems, Inc.</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Cisco Systems</source>
+                    <date>Mon, 07 Dec 2015 19:38:01 GMT</date>
+                    <snippet>Additional Location(s) or Information: Job Category: Engineer - Software Level of Experience: Experienced - Manager Requisition #: R1002087 Description:</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=4e41ad6f99eeda5a&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujofb8sr9be</url>
+                    <onmousedown>indeed_clk(this, &#039;6795&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>4e41ad6f99eeda5a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Integrations Developer</jobtitle>
+                    <company>Autodesk</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Autodesk</source>
+                    <date>Tue, 02 Feb 2016 12:04:34 GMT</date>
+                    <snippet>Experience with Hadoop ecosystem (Hive, Pig, Oozie, Spark, YARN, etc). Senior Integrations Developer....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8382bf2d6c4415c9&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujofb8sr9be</url>
+                    <onmousedown>indeed_clk(this, &#039;6795&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>8382bf2d6c4415c9</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Scientist</jobtitle>
+                    <company>Cloudera</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Cloudera</source>
+                    <date>Thu, 10 Mar 2016 06:12:55 GMT</date>
+                    <snippet>Working knowledge of Hadoop components (Spark, HDFS, YARN, etc.). In collaboration with the rest of the team, you&#039;ll become an expert in open source tools for...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=c6578b7152656c77&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujofb8sr9be</url>
+                    <onmousedown>indeed_clk(this, &#039;6795&#039;);</onmousedown>
+                    <latitude>37.79269</latitude>
+                    <longitude>-122.40168</longitude>
+                    <jobkey>c6578b7152656c77</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94104</formattedLocationFull>
+                    <formattedRelativeTime>1 day ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Principal Software Engineer</jobtitle>
+                    <company>The Nielsen Company</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>The Nielsen Company</source>
+                    <date>Thu, 10 Mar 2016 19:05:25 GMT</date>
+                    <snippet>Principal Software Engineer Overview Nielsen is seeking an innovative and experienced Principal Software Engineer to spearhead the identification, design</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a903f15cfb26b837&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujofb8sr9be</url>
+                    <onmousedown>indeed_clk(this, &#039;6795&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>a903f15cfb26b837</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>12 hours ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer - Data Engineering - Hadoop Infrastructure</jobtitle>
+                    <company>Uber</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Uber</source>
+                    <date>Thu, 14 Jan 2016 19:11:43 GMT</date>
+                    <snippet>Deep experience with Hadoop infrastructure, especially:. Uber is currently looking for talented &amp;amp; motivated Hadoop Infrastructure engineers to join our Data...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=600dd982b9bd7dc7&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujofb8sr9be</url>
+                    <onmousedown>indeed_clk(this, &#039;6795&#039;);</onmousedown>
+                    <latitude>37.771976</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>600dd982b9bd7dc7</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Modeling Analyst / Data Scientist</jobtitle>
+                    <company>Nomis Solutions</company>
+                    <city>San Bruno</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Bruno, CA</formattedLocation>
+                    <source>Nomis Solutions</source>
+                    <date>Thu, 10 Mar 2016 09:20:53 GMT</date>
+                    <snippet>You are passionate about big data analytics and statistical models, and have the ability to persuade your audience based on the power of your analysis. You</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=83a0f801c0ee3449&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujofb8sr9be</url>
+                    <onmousedown>indeed_clk(this, &#039;6795&#039;);</onmousedown>
+                    <latitude>37.62912</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>83a0f801c0ee3449</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Bruno, CA</formattedLocationFull>
+                    <formattedRelativeTime>22 hours ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

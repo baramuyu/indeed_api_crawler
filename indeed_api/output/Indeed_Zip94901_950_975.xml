@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>951</start>
+    <end>960</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>95</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Sr. Software Engineer - TellApart (Platform Infrastructure: Core Services Team)</jobtitle>
+                    <company>Twitter</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Twitter</source>
+                    <date>Sat, 05 Mar 2016 13:15:46 GMT</date>
+                    <snippet>Understanding of inner workings of technologies like Hadoop, MapReduce, HBase, Voldemort, MongoDB, Cloudera CDH, Spark, Parquet, Scalding, Kafka, Zookeeper,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=19af8c744ac71d57&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8uvrpb9fadda</url>
+                    <onmousedown>indeed_clk(this, &#039;9155&#039;);</onmousedown>
+                    <latitude>37.776848</latitude>
+                    <longitude>-122.41679</longitude>
+                    <jobkey>19af8c744ac71d57</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>5 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Software Engineer - TellApart (Platform Infrastructure: Core Tech Team)</jobtitle>
+                    <company>Twitter</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Twitter</source>
+                    <date>Sat, 05 Mar 2016 13:15:40 GMT</date>
+                    <snippet>Experience working with the Lambda Architecture and systems like Hadoop, MapReduce, HBase, Hive, Voldemort, Azkaban, Kafka, Spark, etc....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=5d1aca5841eec92e&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8uvrpb9fadda</url>
+                    <onmousedown>indeed_clk(this, &#039;9155&#039;);</onmousedown>
+                    <latitude>37.776848</latitude>
+                    <longitude>-122.41679</longitude>
+                    <jobkey>5d1aca5841eec92e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>5 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Guidewire developer</jobtitle>
+                    <company>Reliable Software Resources</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Dice</source>
+                    <date>Wed, 24 Feb 2016 02:21:48 GMT</date>
+                    <snippet>We are a Certified MicroStrategy/ Business Objects/ Oracle/ Informatica/ Teradata/ Hadoop/ Microsoft business partner. Guidewire developer Location:....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=05433661b24b0e7d&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8uvrpb9fadda</url>
+                    <onmousedown>indeed_clk(this, &#039;9155&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>05433661b24b0e7d</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>16 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Mid/Sr Server-side Engineer - Disruptive Virtual and Augmented Reality Platform</jobtitle>
+                    <company>Redfish Technology - High Tech Executive Recruiters</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Redfish Technology - High Tech Executive Recruiters</source>
+                    <date>Sun, 21 Feb 2016 07:18:44 GMT</date>
+                    <snippet>- complex table joins, window functions, and star schemas Extensive experience with HTTP/S, REST APIs, &amp;amp; persistent TCP/IP sockets Experience building and...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=850c12b245a465d1&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8uvrpb9fadda</url>
+                    <onmousedown>indeed_clk(this, &#039;9155&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>850c12b245a465d1</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>19 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Mid/Sr Client/Server Engineer - Disruptive Virtual and Augmented Reality Platform</jobtitle>
+                    <company>Redfish Technology - High Tech Executive Recruiters</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Redfish Technology - High Tech Executive Recruiters</source>
+                    <date>Sun, 21 Feb 2016 07:18:44 GMT</date>
+                    <snippet>Experience building and deploying systems based on Apache Spark Experience coding and deploying systems written in Scala Experience working with Hadoop, HIVE,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=4f600321fe2e8158&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8uvrpb9fadda</url>
+                    <onmousedown>indeed_clk(this, &#039;9155&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>4f600321fe2e8158</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>19 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Full Stack Software Engineer</jobtitle>
+                    <company>Payette Group</company>
+                    <city>San Bruno</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Bruno, CA</formattedLocation>
+                    <source>Payette Group</source>
+                    <date>Thu, 24 Dec 2015 07:22:54 GMT</date>
+                    <snippet>Experience with Hadoop and ecosystem (Pig, Hive, Streaming) technologies. Experience developing APIs for data retrieval and Web Applications....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b0cfa43feb10b6d7&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8uvrpb9fadda</url>
+                    <onmousedown>indeed_clk(this, &#039;9155&#039;);</onmousedown>
+                    <latitude>37.62912</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>b0cfa43feb10b6d7</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Bruno, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Software Engineer - Front End</jobtitle>
+                    <company>Matrix Resources</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>MATRIX</source>
+                    <date>Sat, 30 Jan 2016 02:43:23 GMT</date>
+                    <snippet>We use Python, Django, AngularJS, MySQL, Redshift, Hadoop, Spark, Flask, ElasticSearch, RabbitMQ, Redis, Celery, CircleCI, Docker, Vagrant, Fabric, Ansible, and...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=35c2a111286f8341&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8uvrpb9fadda</url>
+                    <onmousedown>indeed_clk(this, &#039;9155&#039;);</onmousedown>
+                    <latitude>37.78743</latitude>
+                    <longitude>-122.43505</longitude>
+                    <jobkey>35c2a111286f8341</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94115</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Technical Evangelist/Technical Marketing Engineer</jobtitle>
+                    <company>DataBricks</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>StartUpHire</source>
+                    <date>Thu, 18 Feb 2016 10:26:04 GMT</date>
+                    <snippet>Experience with big data technologies such as Spark, Hadoop, Kafka &amp;amp; Storm. San Francisco Marketing Full-time....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=de7fb3a3533ce358&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8uvrpb9fadda</url>
+                    <onmousedown>indeed_clk(this, &#039;9155&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>de7fb3a3533ce358</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>21 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Manager, Data &amp; Business Intelligence (BI) Solution Architecture &amp; Delivery</jobtitle>
+                    <company>Levi Strauss &amp; Co.</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Levi Strauss &amp; Co.</source>
+                    <date>Wed, 10 Feb 2016 13:16:50 GMT</date>
+                    <snippet>Experience with BI reporting tools, ideally Business Objects suite of products and Tableau Experience processing large volumes of both structured and...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=9595e0f14bb332d2&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8uvrpb9fadda</url>
+                    <onmousedown>indeed_clk(this, &#039;9155&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>9595e0f14bb332d2</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>29 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Engineer - Intuitive In-Memory Database/Processing Company</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Thu, 11 Feb 2016 03:16:25 GMT</date>
+                    <snippet>Data Engineer - Intuitive In-Memory Database/Processing Company If you are a Data Engineer with Big Data/Database experience, please read on! We have a story</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=67e49eb2b58303bf&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8uvrpb9fadda</url>
+                    <onmousedown>indeed_clk(this, &#039;9155&#039;);</onmousedown>
+                    <latitude>37.771976</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>67e49eb2b58303bf</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>29 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

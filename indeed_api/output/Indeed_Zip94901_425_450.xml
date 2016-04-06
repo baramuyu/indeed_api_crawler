@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>426</start>
+    <end>435</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>43</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Data Strategist, eBay Advertising</jobtitle>
+                    <company>EBay</company>
+                    <city>Brisbane</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Brisbane, CA</formattedLocation>
+                    <source>Ebay</source>
+                    <date>Fri, 29 Jan 2016 08:01:13 GMT</date>
+                    <snippet>Sound understanding of BI best practices, relational structures, data warehousing, structured query language (SQL) + Hadoop skills,. Data Science &amp;amp; Analytics....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=c2c0bb033b48c6b4&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uok7b8ssboc</url>
+                    <onmousedown>indeed_clk(this, &#039;1755&#039;);</onmousedown>
+                    <latitude>37.67857</latitude>
+                    <longitude>-122.39561</longitude>
+                    <jobkey>c2c0bb033b48c6b4</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Brisbane, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Director, Global Sales Operations</jobtitle>
+                    <company>Datameer</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Datameer</source>
+                    <date>Wed, 09 Dec 2015 21:46:06 GMT</date>
+                    <snippet>Excellent knowledge of data analytics and of Hadoop and the open source community. Sr....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=cea93376e31a076b&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uok7b8ssboc</url>
+                    <onmousedown>indeed_clk(this, &#039;1755&#039;);</onmousedown>
+                    <latitude>37.771976</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>cea93376e31a076b</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Java Developer</jobtitle>
+                    <company>Robert Half Technology</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Robert Half Technology</source>
+                    <date>Sun, 06 Mar 2016 18:43:24 GMT</date>
+                    <snippet>A financial client of ours is in need of a Senior Java developer with at least 8+ years of experience. The Job Location is in the financial district of San</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=3959e37d04107d5c&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uok7b8ssboc</url>
+                    <onmousedown>indeed_clk(this, &#039;1755&#039;);</onmousedown>
+                    <latitude>37.79372</latitude>
+                    <longitude>-122.397026</longitude>
+                    <jobkey>3959e37d04107d5c</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94111</formattedLocationFull>
+                    <formattedRelativeTime>4 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Director of Technology</jobtitle>
+                    <company>Jobspring Partners</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Jobspring Partners</source>
+                    <date>Tue, 01 Mar 2016 19:52:48 GMT</date>
+                    <snippet>Java, Javascript, HTML, C#, asp.net, CSS, Spring, Hibernate, MongoDB, Hadoop, Couchbase, ORM, frontend, middle tier, engineering....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=80b78c81ac9fc2b6&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uok7b8ssboc</url>
+                    <onmousedown>indeed_clk(this, &#039;1755&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>80b78c81ac9fc2b6</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>9 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Scientist</jobtitle>
+                    <company>JSG Recruitment LLC</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Tue, 01 Mar 2016 15:41:56 GMT</date>
+                    <snippet>Description Our foundation for success can be summarized in three beliefs: Our product is service.Our value added is financial advice and guidance.Our</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=18e162df9c0abece&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uok7b8ssboc</url>
+                    <onmousedown>indeed_clk(this, &#039;1755&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>18e162df9c0abece</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>9 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Director, Product Intelligence</jobtitle>
+                    <company>Realogy Franchise Group</company>
+                    <city>Emeryville</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Emeryville, CA</formattedLocation>
+                    <source>Realogy</source>
+                    <date>Thu, 10 Mar 2016 22:29:12 GMT</date>
+                    <snippet>Experience with SQL, Hadoop, Spark Hive, Pig, and/or MapReduce:. Director, Product Intelligence....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=18ad1f893cdd17a3&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uok7b8ssboc</url>
+                    <onmousedown>indeed_clk(this, &#039;1755&#039;);</onmousedown>
+                    <latitude>37.82967</latitude>
+                    <longitude>-122.28022</longitude>
+                    <jobkey>18ad1f893cdd17a3</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Emeryville, CA</formattedLocationFull>
+                    <formattedRelativeTime>8 hours ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Scientist</jobtitle>
+                    <company>Yelp</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Yelp</source>
+                    <date>Thu, 28 Jan 2016 15:20:00 GMT</date>
+                    <snippet>Experience with MapReduce, Hadoop, Hive or similar systems. At Yelp, we see our 71 million reviews not only as a great source of information about the best...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=cf18d968164cc346&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uok7b8ssboc</url>
+                    <onmousedown>indeed_clk(this, &#039;1755&#039;);</onmousedown>
+                    <latitude>37.786247</latitude>
+                    <longitude>-122.402275</longitude>
+                    <jobkey>cf18d968164cc346</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Staff Engineer - TellApart (Platform Infrastructure)</jobtitle>
+                    <company>Twitter</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Twitter</source>
+                    <date>Sat, 05 Mar 2016 13:15:44 GMT</date>
+                    <snippet>Experience working with, or a desire to learn about the Lambda Architecture and systems like Hadoop, MapReduce, HBase, Hive, Voldemort, Azkaban, Kafka, Spark,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=fad724e175c84f65&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uok7b8ssboc</url>
+                    <onmousedown>indeed_clk(this, &#039;1755&#039;);</onmousedown>
+                    <latitude>37.776848</latitude>
+                    <longitude>-122.41679</longitude>
+                    <jobkey>fad724e175c84f65</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>5 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Scientist, Customer Insights</jobtitle>
+                    <company>Williams-Sonoma Inc.</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Williams-Sonoma, Inc.</source>
+                    <date>Sat, 06 Feb 2016 02:45:10 GMT</date>
+                    <snippet>Experience with analytic software tools, statistical methodologies and Business Intelligence to large data stores residing within relational databases, such as...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=7c8ebfca47d59121&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uok7b8ssboc</url>
+                    <onmousedown>indeed_clk(this, &#039;1755&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>7c8ebfca47d59121</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Backend Engineer</jobtitle>
+                    <company>Unity Technologies</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Unity Technologies</source>
+                    <date>Tue, 05 Jan 2016 04:51:17 GMT</date>
+                    <snippet>2 yrs experience and passion for processing data at scale, using Hadoop. You love data science, and have done some work in Java and Hadoop to help build and/or...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a24e2964aa4c1379&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uok7b8ssboc</url>
+                    <onmousedown>indeed_clk(this, &#039;1755&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>a24e2964aa4c1379</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>1001</start>
+    <end>1010</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>100</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Senior Product Manager - Creative Ninja - #1 App</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Thu, 10 Mar 2016 10:45:37 GMT</date>
+                    <snippet>Senior Product Manager - Creative Ninja - #1 App Based out of San Francisco, we&#039;ve been featured in several mainstream media channels and are #1 in our</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a61314896b8fa63d&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v0a3bq4s93i</url>
+                    <onmousedown>indeed_clk(this, &#039;9643&#039;);</onmousedown>
+                    <latitude>37.78022</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>a61314896b8fa63d</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94102</formattedLocationFull>
+                    <formattedRelativeTime>20 hours ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>J2EE Engineer, Cutting-edge Medical Device start-up! Up to 175K!</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Tue, 12 Jan 2016 03:28:38 GMT</date>
+                    <snippet>Experience with Hadoop. Develop cutting edge algorithms with Hadoop. The ideal candidates has solid experience with J2EE, Hadoop, AWS, MySQL, Spring and Unit...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=2a878dc8c7c3b053&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v0a3bq4s93i</url>
+                    <onmousedown>indeed_clk(this, &#039;9643&#039;);</onmousedown>
+                    <latitude>37.771976</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>2a878dc8c7c3b053</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Cloud Engineer- Big Data - Unix/Linux, AWS, OpenStack</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>Emeryville</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Emeryville, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Wed, 17 Feb 2016 21:38:23 GMT</date>
+                    <snippet>Big Data- Hadoop, Spark, Kafka, etc. Senior Cloud Engineer- Big Data - Unix/Linux, AWS, OpenStack If you are a Senior Cloud Engineer- Big Data with experience...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=01686d67e7e2fdd3&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v0a3bq4s93i</url>
+                    <onmousedown>indeed_clk(this, &#039;9643&#039;);</onmousedown>
+                    <latitude>37.832417</latitude>
+                    <longitude>-122.28571</longitude>
+                    <jobkey>01686d67e7e2fdd3</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Emeryville, CA 94608</formattedLocationFull>
+                    <formattedRelativeTime>22 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Product Manager - Mobile/Photo Editing/Social - #1 App</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Wed, 10 Feb 2016 09:13:36 GMT</date>
+                    <snippet>Senior Product Manager - Mobile/Photo Editing/Social - #1 App Based out of San Francisco, we&#039;ve been featured in several mainstream media channels and are #1</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=87e4ba4dea3632f1&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v0a3bq4s93i</url>
+                    <onmousedown>indeed_clk(this, &#039;9643&#039;);</onmousedown>
+                    <latitude>37.78022</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>87e4ba4dea3632f1</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94102</formattedLocationFull>
+                    <formattedRelativeTime>29 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Product Manager - Product Management, Data Centric Products, Sta</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Thu, 18 Feb 2016 03:58:35 GMT</date>
+                    <snippet>Comprehensive experience with databases, data warehouses, Hadoop and Spark ecosystems. Product Manager - Product Management, Data Centric Products, Sta We&#039;re a...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b5e43426c86b2857&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v0a3bq4s93i</url>
+                    <onmousedown>indeed_clk(this, &#039;9643&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>b5e43426c86b2857</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>22 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Principal Software Engineer - coolest office in SOMA</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Wed, 10 Feb 2016 21:17:38 GMT</date>
+                    <snippet>What You Will Be Doing - define data model and data storage strategies, including knowledge of distributed data systems such as Hadoop....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=ebb149aac3f14578&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v0a3bq4s93i</url>
+                    <onmousedown>indeed_clk(this, &#039;9643&#039;);</onmousedown>
+                    <latitude>37.785713</latitude>
+                    <longitude>-122.39011</longitude>
+                    <jobkey>ebb149aac3f14578</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>29 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Scientist with fraud detection for US/China company</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Fri, 19 Feb 2016 03:40:51 GMT</date>
+                    <snippet>Experience using Hadoop or MapReduce. Data Scientist with fraud detection for US/China company If you are a Data Scientist with experience, please read on!...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=6a25d1624202d39a&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v0a3bq4s93i</url>
+                    <onmousedown>indeed_clk(this, &#039;9643&#039;);</onmousedown>
+                    <latitude>37.796703</latitude>
+                    <longitude>-122.39561</longitude>
+                    <jobkey>6a25d1624202d39a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94111</formattedLocationFull>
+                    <formattedRelativeTime>21 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Platform Technical Lead (Python) - Global Analytics Leader!</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Fri, 22 Jan 2016 03:59:21 GMT</date>
+                    <snippet>Indexing/Sorting Large Amounts of Data (e.g., Lucene, Solr, Hadoop, Hive, etc.). Platform Technical Lead (Python) - Global Analytics Leader!...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e9f4b0008f58870e&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v0a3bq4s93i</url>
+                    <onmousedown>indeed_clk(this, &#039;9643&#039;);</onmousedown>
+                    <latitude>37.785713</latitude>
+                    <longitude>-122.39011</longitude>
+                    <jobkey>e9f4b0008f58870e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Engineer - Intuitive In-Memory Database/Processing Company</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Thu, 11 Feb 2016 03:16:25 GMT</date>
+                    <snippet>Data Engineer - Intuitive In-Memory Database/Processing Company If you are a Data Engineer with Big Data/Database experience, please read on! We have a story</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=67e49eb2b58303bf&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v0a3bq4s93i</url>
+                    <onmousedown>indeed_clk(this, &#039;9643&#039;);</onmousedown>
+                    <latitude>37.771976</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>67e49eb2b58303bf</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>29 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Backend Engineer - TOP SALARY + EQUITY!</jobtitle>
+                    <company>CyberCoders</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CyberCoders</source>
+                    <date>Thu, 11 Feb 2016 09:17:40 GMT</date>
+                    <snippet>Backend Engineer - TOP SALARY + EQUITY! If you are a Backend Engineer with experience, please read on! Based in beautiful San Francisco, California, we are...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a19aaf019ead50f0&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bH2OcF4ctDm26bXbCq1hDXw&amp;indpubnum=1986175114212579&amp;atk=1adi8v0a3bq4s93i</url>
+                    <onmousedown>indeed_clk(this, &#039;9643&#039;);</onmousedown>
+                    <latitude>37.793957</latitude>
+                    <longitude>-122.46154</longitude>
+                    <jobkey>a19aaf019ead50f0</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94129</formattedLocationFull>
+                    <formattedRelativeTime>28 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

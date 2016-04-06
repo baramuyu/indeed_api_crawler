@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>26</start>
+    <end>35</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>3</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Data Engineer</jobtitle>
+                    <company>Viki</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Omidyar Networks</source>
+                    <date>Fri, 26 Feb 2016 15:00:20 GMT</date>
+                    <snippet>Experience with Production Hadoop ecosystem. Viki, a Rakuten Company (Japan Stock Exchange:....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=13df4ad777b42e06&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujclbq4se6l</url>
+                    <onmousedown>indeed_clk(this, &#039;6412&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>13df4ad777b42e06</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>13 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Operations Engineer</jobtitle>
+                    <company>FIS</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>FIS</source>
+                    <date>Fri, 04 Mar 2016 11:51:37 GMT</date>
+                    <snippet>Data Operations Engineer - 1600841 DATA OPERATIONS ENGINEER FIS Mobile is looking for an exceptional Data Engineer to support our flagship data BI</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=f8be2e8aa39d9b00&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujclbq4se6l</url>
+                    <onmousedown>indeed_clk(this, &#039;6412&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>f8be2e8aa39d9b00</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>6 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>QA Engineer with AWS/ Hadoop for Contract Position in San Rafael, CA</jobtitle>
+                    <company>Accelon INC</company>
+                    <city>San Rafael</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Rafael, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Mon, 22 Feb 2016 19:08:10 GMT</date>
+                    <snippet>QA Engineer with AWS/ Hadoop. We are looking for a QA Engineer with AWS/ Hadoop for Contract Position with our client in San Rafael, CA. San Rafael, CA....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=89611938179042b1&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujclbq4se6l</url>
+                    <onmousedown>indeed_clk(this, &#039;6412&#039;);</onmousedown>
+                    <latitude>37.972527</latitude>
+                    <longitude>-122.52747</longitude>
+                    <jobkey>89611938179042b1</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Rafael, CA</formattedLocationFull>
+                    <formattedRelativeTime>17 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Developer (Big Data)/ Hadoop Developer</jobtitle>
+                    <company>QSolv Inc.</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Wed, 10 Feb 2016 19:17:58 GMT</date>
+                    <snippet>Hadoop &amp;amp; Big Data:. Developer (Big Data)/ Hadoop Developer*. Experience in back-end big data technologies like Hadoop, Hbase,. Sr....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b75198f6c9225dd4&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujclbq4se6l</url>
+                    <onmousedown>indeed_clk(this, &#039;6412&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>b75198f6c9225dd4</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>29 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Cyber Security Systems Engineer</jobtitle>
+                    <company>PRICE WATERHOUSE COOPERS</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>PwC</source>
+                    <date>Thu, 03 Mar 2016 09:54:57 GMT</date>
+                    <snippet>Hadoop, HIVE, LUA, ESPER, FreeMarker, PIG, HAWQ, SQL, .NET, and/or Powershell; Utilizing security perimeter enforcement, security logging and/or monitoring...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=064c738cfa4c2422&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujclbq4se6l</url>
+                    <onmousedown>indeed_clk(this, &#039;6412&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>064c738cfa4c2422</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>7 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer - Hadoop Platform</jobtitle>
+                    <company>Uber</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Uber</source>
+                    <date>Thu, 14 Jan 2016 19:11:56 GMT</date>
+                    <snippet>You will be building out several gateway services, that offer low latency access to information in our Hadoop data lake....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=91a7aa7b9535f0f9&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujclbq4se6l</url>
+                    <onmousedown>indeed_clk(this, &#039;6412&#039;);</onmousedown>
+                    <latitude>37.771976</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>91a7aa7b9535f0f9</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Head of Data Analytics, Wrist Wearables</jobtitle>
+                    <company>Intel</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Intel</source>
+                    <date>Tue, 01 Mar 2016 05:37:54 GMT</date>
+                    <snippet>Hadoop , HBase, Lucene/Solr), analytics packages (i.e. The Wrist Worn Business Unit in the New Devices Group is seeking a Head of Data Analytics to lead its...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=479fc351302845d7&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujclbq4se6l</url>
+                    <onmousedown>indeed_clk(this, &#039;6412&#039;);</onmousedown>
+                    <latitude>37.78022</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>479fc351302845d7</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94102</formattedLocationFull>
+                    <formattedRelativeTime>10 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Platform Engineer</jobtitle>
+                    <company>Kinsa Inc.</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Kinsa Inc.</source>
+                    <date>Fri, 04 Mar 2016 12:49:22 GMT</date>
+                    <snippet>Some experience with data analysis/analytics either via SQL (e.g., Tableau) or &amp;quot;Big Data&amp;quot; (e.g., Spark, Hadoop, etc.)....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=006a065848b1cd5b&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujclbq4se6l</url>
+                    <onmousedown>indeed_clk(this, &#039;6412&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>006a065848b1cd5b</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>6 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Scientist</jobtitle>
+                    <company>Capital One</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Capital One</source>
+                    <date>Wed, 09 Mar 2016 15:34:35 GMT</date>
+                    <snippet>Using Hadoop and related tools (Pig, Hive, Impala) to manage the analysis of billions of customer transaction records -Writing software to clean and investigate...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=0984d26f1977e434&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujclbq4se6l</url>
+                    <onmousedown>indeed_clk(this, &#039;6412&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>0984d26f1977e434</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>1 day ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Engineer</jobtitle>
+                    <company>Entelo</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Entelo</source>
+                    <date>Mon, 29 Feb 2016 06:45:31 GMT</date>
+                    <snippet>Entelo is committed to building a diverse team and encourages applications from women, minorities and underrepresented groups. Entelo is changing how</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a152cf02e75cb0ab&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bK21mT3z4c1VZGrmZXwK9HE&amp;indpubnum=1986175114212579&amp;atk=1adi8ujclbq4se6l</url>
+                    <onmousedown>indeed_clk(this, &#039;6412&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>a152cf02e75cb0ab</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>11 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>776</start>
+    <end>785</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>78</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Big Data Architect/ Lead Data Engineer</jobtitle>
+                    <company>Elevate Recruiting Group</company>
+                    <city>Sausalito</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Sausalito, CA</formattedLocation>
+                    <source>Elevate Recruiting Group</source>
+                    <date>Sat, 12 Dec 2015 07:23:55 GMT</date>
+                    <snippet>Practical experience with distributed data analysis systems using parallel processes such as Map/Reduce, Hadoop, Hive, and Pig. Big Data Architect (keywords:....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=df3dab9f26e1488a&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8uu1ab092c3g</url>
+                    <onmousedown>indeed_clk(this, &#039;7311&#039;);</onmousedown>
+                    <latitude>37.857143</latitude>
+                    <longitude>-122.48351</longitude>
+                    <jobkey>df3dab9f26e1488a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Sausalito, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Software Development Engineer</jobtitle>
+                    <company>The Trade Desk</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>The Trade Desk</source>
+                    <date>Tue, 12 Jan 2016 16:55:49 GMT</date>
+                    <snippet>Data bus architecture, Hadoop / MPP data warehouse, etc.), and data visualization (e.g. Raise your hand if you LOVE ads!...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=be9e6eae170b9bef&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8uu1ab092c3g</url>
+                    <onmousedown>indeed_clk(this, &#039;7311&#039;);</onmousedown>
+                    <latitude>37.787315</latitude>
+                    <longitude>-122.39782</longitude>
+                    <jobkey>be9e6eae170b9bef</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Chief Software Architect</jobtitle>
+                    <company>Thomson Reuters</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Thomson Reuters</source>
+                    <date>Thu, 07 Jan 2016 17:34:42 GMT</date>
+                    <snippet>Hands-on experience with of Hadoop. World leader in brand protection and a Thomson Reuters Intellectual Property....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=772e53b319a7f266&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8uu1ab092c3g</url>
+                    <onmousedown>indeed_clk(this, &#039;7311&#039;);</onmousedown>
+                    <latitude>37.79137</latitude>
+                    <longitude>-122.39837</longitude>
+                    <jobkey>772e53b319a7f266</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior DevOps Engineer (Big Data/ Cloud)</jobtitle>
+                    <company>Ascent</company>
+                    <city>Emeryville</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Emeryville, CA</formattedLocation>
+                    <source>Dice</source>
+                    <date>Thu, 25 Feb 2016 00:08:17 GMT</date>
+                    <snippet>Experience building a fully automated, highly elastic cloud framework over multiple IaaS providers including AWS, OpenStack, and Azure Experience with...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e92ef7a88e7e821d&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8uu1ab092c3g</url>
+                    <onmousedown>indeed_clk(this, &#039;7311&#039;);</onmousedown>
+                    <latitude>37.832417</latitude>
+                    <longitude>-122.28571</longitude>
+                    <jobkey>e92ef7a88e7e821d</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Emeryville, CA 94608</formattedLocationFull>
+                    <formattedRelativeTime>15 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Head of Business Intelligence</jobtitle>
+                    <company>Lyft Corporate</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Lyft Corporate</source>
+                    <date>Thu, 18 Feb 2016 13:06:47 GMT</date>
+                    <snippet>Experience with many forms of data infrastructure, including big data frameworks (Spark, Hadoop), columnar databases (Redshift, Vertica), and RDBMS (MySQL,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8c9e8b1701198f56&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8uu1ab092c3g</url>
+                    <onmousedown>indeed_clk(this, &#039;7311&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>8c9e8b1701198f56</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>21 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>ETL/Business Intelligence Analyst/Developer</jobtitle>
+                    <company>Proximous</company>
+                    <city>Walnut Creek</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Walnut Creek, CA</formattedLocation>
+                    <source>Dice</source>
+                    <date>Thu, 10 Mar 2016 15:25:03 GMT</date>
+                    <snippet>KEY RESPONSIBILITIES Perform the design, development, and support using Informatica Power Center. Perform the design, development, and support of the overall</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=358d4f73082d08d4&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8uu1ab092c3g</url>
+                    <onmousedown>indeed_clk(this, &#039;7311&#039;);</onmousedown>
+                    <latitude>37.868134</latitude>
+                    <longitude>-122.07143</longitude>
+                    <jobkey>358d4f73082d08d4</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Walnut Creek, CA 94595</formattedLocationFull>
+                    <formattedRelativeTime>15 hours ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Marketing Analyst</jobtitle>
+                    <company>EBay</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Ebay</source>
+                    <date>Wed, 09 Mar 2016 04:06:55 GMT</date>
+                    <snippet>Requisition No.: 121092BR Subsidiary: StubHub Primary Job Responsibilities: The Senior Marketing Analyst position at StubHub will focus on marketing...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=cc885ec809b00a1d&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8uu1ab092c3g</url>
+                    <onmousedown>indeed_clk(this, &#039;7311&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>cc885ec809b00a1d</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Intern - Business Analyst</jobtitle>
+                    <company>Bio-Rad, Inc.</company>
+                    <city>Hercules</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Hercules, CA</formattedLocation>
+                    <source>Bio-Rad, Inc.</source>
+                    <date>Tue, 09 Feb 2016 06:45:41 GMT</date>
+                    <snippet>Experience with Salesforce.com, Marketo platforms, SAP business analytics, Hadoop, “Data Lakes”. Bio-Rad is looking for an Intern - Business Analyst....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=96fc547cf9f71bd8&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8uu1ab092c3g</url>
+                    <onmousedown>indeed_clk(this, &#039;7311&#039;);</onmousedown>
+                    <latitude>38.016483</latitude>
+                    <longitude>-122.28571</longitude>
+                    <jobkey>96fc547cf9f71bd8</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Hercules, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Architect</jobtitle>
+                    <company>Xoriant Corporation</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Dice</source>
+                    <date>Sat, 20 Feb 2016 16:18:52 GMT</date>
+                    <snippet>Develop and maintain an integrated data architecture spanning the relational, NoSQL and Hadoop based technologies resulting in a scalable approach for our needs...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=1049a615e18422a2&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8uu1ab092c3g</url>
+                    <onmousedown>indeed_clk(this, &#039;7311&#039;);</onmousedown>
+                    <latitude>37.796703</latitude>
+                    <longitude>-122.39561</longitude>
+                    <jobkey>1049a615e18422a2</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94111</formattedLocationFull>
+                    <formattedRelativeTime>19 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Program Manager</jobtitle>
+                    <company>Cloudera</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Cloudera</source>
+                    <date>Fri, 11 Dec 2015 02:25:06 GMT</date>
+                    <snippet>Familiarity with Apache Hadoop and its related technologies a big plus. As the leading educator of Hadoop professionals, Cloudera has trained over 20,000...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a19ee60ce9e331ff&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8uu1ab092c3g</url>
+                    <onmousedown>indeed_clk(this, &#039;7311&#039;);</onmousedown>
+                    <latitude>37.79269</latitude>
+                    <longitude>-122.40168</longitude>
+                    <jobkey>a19ee60ce9e331ff</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94104</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

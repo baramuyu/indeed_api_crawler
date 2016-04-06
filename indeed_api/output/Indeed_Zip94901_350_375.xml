@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>351</start>
+    <end>360</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>35</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Senior Big Data Engineer</jobtitle>
+                    <company>Randstad Technologies</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Randstad Technologies</source>
+                    <date>Wed, 09 Mar 2016 20:32:33 GMT</date>
+                    <snippet>Love to work with open source technologies like Spark, Hadoop ecosystems, activeMQ, Kafka, Zookeeper, MySQL, PHP....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=94c72df9d38f715c&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8untnbqgo87e</url>
+                    <onmousedown>indeed_clk(this, &#039;1057&#039;);</onmousedown>
+                    <latitude>37.78846</latitude>
+                    <longitude>-122.4011</longitude>
+                    <jobkey>94c72df9d38f715c</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94108</formattedLocationFull>
+                    <formattedRelativeTime>1 day ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Java / Hadoop Developer</jobtitle>
+                    <company>Jobsbridge.Inc</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Wed, 23 Dec 2015 15:28:38 GMT</date>
+                    <snippet>Work with technologies like Hadoop, Solr and Cassandra Work with enormous data sets, data mine and using machine learning techniques Solve interesting and...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=07b27dc6113ee74f&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8untnbqgo87e</url>
+                    <onmousedown>indeed_clk(this, &#039;1057&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>07b27dc6113ee74f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>BI Engineer</jobtitle>
+                    <company>K2 Partnering Solutions, Inc.</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Dice</source>
+                    <date>Sat, 20 Feb 2016 03:54:02 GMT</date>
+                    <snippet>Experienced with a variety of relational database systems like Vertica, MySQL, Oracle, etc. •Expert in SQL development, Data modeling and performance tuning...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=ff42556532765c64&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8untnbqgo87e</url>
+                    <onmousedown>indeed_clk(this, &#039;1057&#039;);</onmousedown>
+                    <latitude>37.796703</latitude>
+                    <longitude>-122.39561</longitude>
+                    <jobkey>ff42556532765c64</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94111</formattedLocationFull>
+                    <formattedRelativeTime>20 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer - Infrastructure</jobtitle>
+                    <company>Yelp</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Yelp</source>
+                    <date>Thu, 28 Jan 2016 15:19:53 GMT</date>
+                    <snippet>Experience with Hadoop (via mrjob!), Lucene, ElasticSearch, MySQL, ReSTful web services. Yelp’s Infrastructure teams design, implements, and maintains scalable...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=421ecfb588db0f6e&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8untnbqgo87e</url>
+                    <onmousedown>indeed_clk(this, &#039;1057&#039;);</onmousedown>
+                    <latitude>37.786247</latitude>
+                    <longitude>-122.402275</longitude>
+                    <jobkey>421ecfb588db0f6e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Hadoop Consultant Full time only</jobtitle>
+                    <company>eSolution</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Sat, 13 Feb 2016 11:58:03 GMT</date>
+                    <snippet>Hadoop Developer Location :. 7+ years IT experience 2-3 years strong Hadoop experienceGood communication skills....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b2ef8575844730ef&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8untnbqgo87e</url>
+                    <onmousedown>indeed_clk(this, &#039;1057&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>b2ef8575844730ef</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>26 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Staff - Data Applications, Business Analytics &amp; Data Science</jobtitle>
+                    <company>LinkedIn</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>LinkedIn</source>
+                    <date>Wed, 09 Mar 2016 22:14:18 GMT</date>
+                    <snippet>Experience with large-scale data on Hadoop using Hive or Pig. LinkedIn was built to help professionals achieve more in their careers, and every day millions of...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=65ff5615010448c3&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8untnbqgo87e</url>
+                    <onmousedown>indeed_clk(this, &#039;1057&#039;);</onmousedown>
+                    <latitude>37.783047</latitude>
+                    <longitude>-122.394066</longitude>
+                    <jobkey>65ff5615010448c3</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94107</formattedLocationFull>
+                    <formattedRelativeTime>1 day ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Hadoop Administrator</jobtitle>
+                    <company>Marin Software</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Marin Software</source>
+                    <date>Thu, 14 Jan 2016 20:53:43 GMT</date>
+                    <snippet>SENIOR HADOOP ADMINISTRATOR. Manage large scale Hadoop cluster environments, handling all Hadoop environment builds, including design, capacity planning,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=89e53c34629b846c&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8untnbqgo87e</url>
+                    <onmousedown>indeed_clk(this, &#039;1057&#039;);</onmousedown>
+                    <latitude>37.792225</latitude>
+                    <longitude>-122.3942</longitude>
+                    <jobkey>89e53c34629b846c</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>DevOps Engineer</jobtitle>
+                    <company>NerdWallet</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Nerdwallet</source>
+                    <date>Thu, 10 Dec 2015 22:52:07 GMT</date>
+                    <snippet>NerdWallet is seeking a DevOps Engineer who can help build, automate, scale, and monitor NerdWallet’s infrastructure. The ideal candidate has experience</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=2fa82c9b41efa264&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8untnbqgo87e</url>
+                    <onmousedown>indeed_clk(this, &#039;1057&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>2fa82c9b41efa264</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Security Architect Remote Position</jobtitle>
+                    <company>UBERTAL Inc</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Wed, 09 Mar 2016 20:38:02 GMT</date>
+                    <snippet>Application level, data/database level, file level for a variety of platforms [java, .net, c/c++], operating systems [linux, windows, solaris, AIX] and...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=cdf62fcb18d8d623&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8untnbqgo87e</url>
+                    <onmousedown>indeed_clk(this, &#039;1057&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>cdf62fcb18d8d623</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>1 day ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Staff Engineer, Search Ranking (San Francisco)</jobtitle>
+                    <company>Etsy</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Etsy</source>
+                    <date>Sat, 06 Feb 2016 01:29:41 GMT</date>
+                    <snippet>To solve problems we use Hadoop, MapReduce, Cascading or Scaling but we try to use whatever tool is best. The Staff Engineer, Search Ranking is someone with a...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b2368f094c667cba&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8untnbqgo87e</url>
+                    <onmousedown>indeed_clk(this, &#039;1057&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>b2368f094c667cba</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>226</start>
+    <end>235</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>23</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Big Data Engineer</jobtitle>
+                    <company>Nomis Solutions</company>
+                    <city>San Bruno</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Bruno, CA</formattedLocation>
+                    <source>Nomis Solutions</source>
+                    <date>Fri, 15 Jan 2016 03:40:33 GMT</date>
+                    <snippet>Knowledge of Hadoop ecosystem products such as HDFS, MapReduce, Hive, Pig, Spark, AVRO, HBase/Cassandra/Accumulo, Zookeeper. Big Data Engineer....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=2fdeb873313a38fc&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8umcub9i380e</url>
+                    <onmousedown>indeed_clk(this, &#039;9479&#039;);</onmousedown>
+                    <latitude>37.62912</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>2fdeb873313a38fc</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Bruno, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer, Kudu</jobtitle>
+                    <company>Cloudera</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Cloudera</source>
+                    <date>Wed, 17 Feb 2016 02:05:13 GMT</date>
+                    <snippet>Amazing people - We are a fun and smart team, including many of the top luminaries in Hadoop and related open source communities....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b552072d82757340&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8umcub9i380e</url>
+                    <onmousedown>indeed_clk(this, &#039;9479&#039;);</onmousedown>
+                    <latitude>37.79269</latitude>
+                    <longitude>-122.40168</longitude>
+                    <jobkey>b552072d82757340</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94104</formattedLocationFull>
+                    <formattedRelativeTime>23 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Big Data Engineer</jobtitle>
+                    <company>Strategic Employment Partners</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Strategic Employment Partners</source>
+                    <date>Tue, 08 Mar 2016 07:14:31 GMT</date>
+                    <snippet>Experience with big data technologies like Elasticsearch, MapReduce, Hadoop, Cassandra, HBase, etc. Tech company specializing in loan processing has an...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=784a9e2cb01af107&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8umcub9i380e</url>
+                    <onmousedown>indeed_clk(this, &#039;9479&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>784a9e2cb01af107</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>3 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Mid-Level Software Engineer</jobtitle>
+                    <company>Linqia</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Linqia</source>
+                    <date>Sat, 05 Mar 2016 01:18:46 GMT</date>
+                    <snippet>Linqia is the first performance-based influencer marketing platform, tying influencers and content to real results. The Linqia platform has delivered and</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=2bd50f68b8206370&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8umcub9i380e</url>
+                    <onmousedown>indeed_clk(this, &#039;9479&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>2bd50f68b8206370</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>6 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Lead Ruby on Rails Developer</jobtitle>
+                    <company>Skillz Inc.</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Skillz Inc.</source>
+                    <date>Sat, 13 Feb 2016 06:55:52 GMT</date>
+                    <snippet>About Skillz: With over 600 game studio partners and hundreds of thousands of matches played daily, Skillz is changing the gaming industry with the first</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b0eee67fb3e20526&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8umcub9i380e</url>
+                    <onmousedown>indeed_clk(this, &#039;9479&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>b0eee67fb3e20526</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>27 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>IT BI Engineer</jobtitle>
+                    <company>Twitter</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Twitter</source>
+                    <date>Sat, 05 Mar 2016 13:16:13 GMT</date>
+                    <snippet>At Twitter our IT Business Systems team focuses on implementing and supporting applications to help our internal customers meet their operational needs. We</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8137e7368fe60f63&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8umcub9i380e</url>
+                    <onmousedown>indeed_clk(this, &#039;9479&#039;);</onmousedown>
+                    <latitude>37.776848</latitude>
+                    <longitude>-122.41679</longitude>
+                    <jobkey>8137e7368fe60f63</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>5 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior DevOps Engineer</jobtitle>
+                    <company>LiveRamp</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>LiveRamp</source>
+                    <date>Fri, 19 Feb 2016 06:59:55 GMT</date>
+                    <snippet>Join our team and help us operate and optimize an environment with hundreds of machines and a four petabyte (and growing) Hadoop cluster....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=08c0d734b6b9d749&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8umcub9i380e</url>
+                    <onmousedown>indeed_clk(this, &#039;9479&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>08c0d734b6b9d749</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>21 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Lead Software Engineer - JavaScript Front End</jobtitle>
+                    <company>Capital One</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Capital One</source>
+                    <date>Tue, 08 Mar 2016 15:35:19 GMT</date>
+                    <snippet>IOS(Swift), Android, Web(JavaScript), Node.js, Elastic Search, AWS, Hadoop, Spark, Selenium, Appium... Money has been around for a few thousand years and...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=eff3f6eb798a66de&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8umcub9i380e</url>
+                    <onmousedown>indeed_clk(this, &#039;9479&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>eff3f6eb798a66de</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer - DCOS Foundations</jobtitle>
+                    <company>Mesosphere</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Mesosphere</source>
+                    <date>Mon, 22 Feb 2016 20:21:18 GMT</date>
+                    <snippet>Production experience with service oriented architectures and distributed systems like Mesos, Kafka, Cassandra, Hadoop, Zookeeper, etc....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=3ef6536b8055db2a&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8umcub9i380e</url>
+                    <onmousedown>indeed_clk(this, &#039;9479&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>3ef6536b8055db2a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>17 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Manager- Software Development</jobtitle>
+                    <company>S &amp; C Electric Company</company>
+                    <city>Alameda</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Alameda, CA</formattedLocation>
+                    <source>S &amp; C Electric Company</source>
+                    <date>Tue, 23 Feb 2016 17:59:19 GMT</date>
+                    <snippet>Hadoop, Cassandra, Kafka, Redis, Elastic Search, Spark, Kibana. We are hiring a hands-on Software Development Manager....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=01568f765a3e6f92&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8umcub9i380e</url>
+                    <onmousedown>indeed_clk(this, &#039;9479&#039;);</onmousedown>
+                    <latitude>37.763737</latitude>
+                    <longitude>-122.23627</longitude>
+                    <jobkey>01568f765a3e6f92</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Alameda, CA</formattedLocationFull>
+                    <formattedRelativeTime>16 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

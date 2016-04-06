@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>651</start>
+    <end>660</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>65</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Software Engineer Intern (Front|Back|Cloud|Mobile|Web) - Summer 2016</jobtitle>
+                    <company>Walmart eCommerce</company>
+                    <city>San Bruno</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Bruno, CA</formattedLocation>
+                    <source>Walmart eCommerce</source>
+                    <date>Tue, 12 Jan 2016 05:43:41 GMT</date>
+                    <snippet>Position Summary ABOUT SOFTWARE ENGINEER INTERNS The teams within @WalmartLabs design, prototype and build technology-fueled products that bridge the gap</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=13254ec6c3ce7697&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8usgjb8ssdn7</url>
+                    <onmousedown>indeed_clk(this, &#039;5722&#039;);</onmousedown>
+                    <latitude>37.62912</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>13254ec6c3ce7697</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Bruno, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Microsoft BI Architect</jobtitle>
+                    <company>Slalom Consulting</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Slalom Consulting</source>
+                    <date>Wed, 02 Dec 2015 10:49:33 GMT</date>
+                    <snippet>Experience with massively paralleled systems such as Hadoop stack, Teradata, Exadata, etc. As a Microsoft BI Architect for Slalom Consulting, you will be...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=6b8b44bae1ca0e96&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8usgjb8ssdn7</url>
+                    <onmousedown>indeed_clk(this, &#039;5722&#039;);</onmousedown>
+                    <latitude>37.791298</latitude>
+                    <longitude>-122.39226</longitude>
+                    <jobkey>6b8b44bae1ca0e96</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr Data Engineer</jobtitle>
+                    <company>Silver Key</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Silver Key</source>
+                    <date>Tue, 19 Jan 2016 07:21:14 GMT</date>
+                    <snippet>Strong experience working hands-on with big data, including Hadoop and MapReduce. Youll work with tools like Cassandra, HBase, Hadoop, Impala, Storm, and more,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=aec0829adab29d2b&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8usgjb8ssdn7</url>
+                    <onmousedown>indeed_clk(this, &#039;5722&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>aec0829adab29d2b</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Associate Information Systems - Data Scientist</jobtitle>
+                    <company>Amgen</company>
+                    <city>South San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>South San Francisco, CA</formattedLocation>
+                    <source>Amgen</source>
+                    <date>Wed, 03 Feb 2016 20:02:36 GMT</date>
+                    <snippet>Amgen discovers, develops and delivers innovative human therapeutics. A biotechnology pioneer since 1980, Amgen was one of the first companies to realize the</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=09304e39aad33626&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8usgjb8ssdn7</url>
+                    <onmousedown>indeed_clk(this, &#039;5722&#039;);</onmousedown>
+                    <latitude>37.6631</latitude>
+                    <longitude>-122.3928</longitude>
+                    <jobkey>09304e39aad33626</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>South San Francisco, CA 94080</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Developer - Senior ()</jobtitle>
+                    <company>Calsoft Labs</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Dice</source>
+                    <date>Thu, 10 Mar 2016 15:24:49 GMT</date>
+                    <snippet>Attributes • Strong initiative and a positive attitude • Ability to work collaboratively with peer engineers, data scientists and product managers • Ability to...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=63f885c2ee0f3fef&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8usgjb8ssdn7</url>
+                    <onmousedown>indeed_clk(this, &#039;5722&#039;);</onmousedown>
+                    <latitude>37.78022</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>63f885c2ee0f3fef</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94102</formattedLocationFull>
+                    <formattedRelativeTime>15 hours ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Engineering Manager - Data team</jobtitle>
+                    <company>CloudFlare</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CloudFlare</source>
+                    <date>Thu, 11 Feb 2016 02:41:10 GMT</date>
+                    <snippet>Experience using distributed systems like or similar to Hadoop, Kafka and Zookeeper. At CloudFlare, we have our eyes set on an ambitious goal -- to build a...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=20345065148d3722&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8usgjb8ssdn7</url>
+                    <onmousedown>indeed_clk(this, &#039;5722&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>20345065148d3722</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>29 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Big Data/Spark Developer</jobtitle>
+                    <company>Vision InfoSystems Inc.</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Dice</source>
+                    <date>Fri, 11 Mar 2016 00:03:00 GMT</date>
+                    <snippet>Job Description Expert Programmer In Java with more than 6 Years of experience Minimum 2+ Years Of Experience In Installing, Tuning And Operating Apache Spark...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a2873dd314a050af&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8usgjb8ssdn7</url>
+                    <onmousedown>indeed_clk(this, &#039;5722&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>a2873dd314a050af</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>7 hours ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Staff Engineer (Platform Infrastructure)</jobtitle>
+                    <company>TellApart</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>TellApart</source>
+                    <date>Sat, 19 Dec 2015 10:11:16 GMT</date>
+                    <snippet>Experience working with, or a desire to learn about the Lambda Architecture and systems like Hadoop, MapReduce, HBase, Hive, Voldemort, Azkaban, Kafka, Spark,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b7dccbee13acb07c&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8usgjb8ssdn7</url>
+                    <onmousedown>indeed_clk(this, &#039;5722&#039;);</onmousedown>
+                    <latitude>37.771976</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>b7dccbee13acb07c</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>DevOps Engineer</jobtitle>
+                    <company>Aclima</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Aclima</source>
+                    <date>Fri, 25 Dec 2015 06:48:27 GMT</date>
+                    <snippet>About Aclima Aclima designs and deploys environmental sensor networks that help people live aware. Aclima’s sensor networks generate billions of data points</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=13ca4e0045011270&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8usgjb8ssdn7</url>
+                    <onmousedown>indeed_clk(this, &#039;5722&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>13ca4e0045011270</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Staff Software Engineer</jobtitle>
+                    <company>Elevate Recruiting Group</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Elevate Recruiting Group</source>
+                    <date>Tue, 19 Jan 2016 07:21:15 GMT</date>
+                    <snippet>Knowledge of SQL, Hadoop, Hive or JavaScript a bonus. Work with senior Hadoop and Hive engineers to develop complex chains of queries, custom UDFs/UDAFs, and...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=13b48b6c0df248c1&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8usgjb8ssdn7</url>
+                    <onmousedown>indeed_clk(this, &#039;5722&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>13b48b6c0df248c1</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>601</start>
+    <end>610</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>60</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Senior Hadoop Systems Engineer/Hadoop Administrator</jobtitle>
+                    <company>Andiamo! Group</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Andiamo! Group</source>
+                    <date>Mon, 22 Feb 2016 19:56:35 GMT</date>
+                    <snippet>Senior Hadoop Systems Engineer/Hadoop Administrator (IFW3127). Our Site Operations Team is looking for a Hadoop Administrator! San Francisco, Ca....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=6fc42705f115bb7f&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8urprbqcq9co</url>
+                    <onmousedown>indeed_clk(this, &#039;5026&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>6fc42705f115bb7f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>17 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Analytic Apps Product Manager</jobtitle>
+                    <company>PRICE WATERHOUSE COOPERS</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>PwC</source>
+                    <date>Thu, 03 Mar 2016 09:54:23 GMT</date>
+                    <snippet>Applicable sources of external, internal or new data sources, i.e. SQL, Oracle, NoSQL, Hadoop, MSFT Access, etc.;...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=38353688505c54b2&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8urprbqcq9co</url>
+                    <onmousedown>indeed_clk(this, &#039;5026&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>38353688505c54b2</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>7 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Java/Scala Developer</jobtitle>
+                    <company>Randstad Technologies</company>
+                    <city>Emeryville</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Emeryville, CA</formattedLocation>
+                    <source>Randstad Technologies</source>
+                    <date>Wed, 24 Feb 2016 23:32:53 GMT</date>
+                    <snippet>Must be experienced in Java, Scala, Spark, SBT, and Hadoop. Need an experienced buildmaster to put together a baseline continuous integration build environment...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=601df02c551ac4bd&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8urprbqcq9co</url>
+                    <onmousedown>indeed_clk(this, &#039;5026&#039;);</onmousedown>
+                    <latitude>37.832417</latitude>
+                    <longitude>-122.28571</longitude>
+                    <jobkey>601df02c551ac4bd</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Emeryville, CA 94608</formattedLocationFull>
+                    <formattedRelativeTime>15 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Manager, Data Scientist</jobtitle>
+                    <company>Model Metrics</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Model Metrics</source>
+                    <date>Tue, 23 Feb 2016 20:36:21 GMT</date>
+                    <snippet>Solid technical skills in querying and transforming data within traditional DW environment, experience with Hadoop HDFS system a plus....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=65873ca4e9eb39e9&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8urprbqcq9co</url>
+                    <onmousedown>indeed_clk(this, &#039;5026&#039;);</onmousedown>
+                    <latitude>37.792915</latitude>
+                    <longitude>-122.39254</longitude>
+                    <jobkey>65873ca4e9eb39e9</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>16 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Scientist (macys.com)</jobtitle>
+                    <company>Macy&#039;s</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Macy&#039;s</source>
+                    <date>Sat, 30 Jan 2016 01:18:56 GMT</date>
+                    <snippet>Hadoop, Hive, Hbase, Mahout, etc.). The Data Scientist function enables and empowers macys.com marketing and site personalization with reporting, predictive...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8b370760e8c792bd&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8urprbqcq9co</url>
+                    <onmousedown>indeed_clk(this, &#039;5026&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>8b370760e8c792bd</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>VP of Data Engineering</jobtitle>
+                    <company>Protean Solutions Inc</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Fri, 04 Mar 2016 22:01:55 GMT</date>
+                    <snippet>*We are hiring for a top digital media client in bay area,CA* *VP of Data Engineering* *Location: San Francisco, CA* *Contract to hire/ fulltime* In this</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a315f56bc60b36bb&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8urprbqcq9co</url>
+                    <onmousedown>indeed_clk(this, &#039;5026&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>a315f56bc60b36bb</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>6 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Analyst, Digital Analytics and Insights</jobtitle>
+                    <company>CBS Interactive</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CBS</source>
+                    <date>Tue, 23 Feb 2016 12:21:39 GMT</date>
+                    <snippet># Senior Analyst, Digital Analytics and Insights **REF#: ** 24398 **CBS BUSINESS UNIT: ** CBS Interactive **JOB TYPE: ** Full-Time Staff **JOB SCHEDULE: *</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=681188216b0c11ab&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8urprbqcq9co</url>
+                    <onmousedown>indeed_clk(this, &#039;5026&#039;);</onmousedown>
+                    <latitude>37.771976</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>681188216b0c11ab</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>16 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Director, Infrastructure Analytics</jobtitle>
+                    <company>Salesforce</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Salesforce</source>
+                    <date>Wed, 02 Dec 2015 03:56:56 GMT</date>
+                    <snippet>Experience with Hadoop, Hbase and/or Hive. Salesforce.com hosts web services and applications written by thousands of internal developers and tens of thousands...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=95d8eee4f77a4027&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8urprbqcq9co</url>
+                    <onmousedown>indeed_clk(this, &#039;5026&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>95d8eee4f77a4027</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Backend Software Engineer</jobtitle>
+                    <company>Track Revenue</company>
+                    <city>San Francisco Bay Area</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco Bay Area, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Wed, 20 Jan 2016 02:47:46 GMT</date>
+                    <snippet>WHO WE ARE We are a technology company building cutting edge enterprise software to “change the game” in online advertising. The company is headquartered in...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e80fc4247ac8225d&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8urprbqcq9co</url>
+                    <onmousedown>indeed_clk(this, &#039;5026&#039;);</onmousedown>
+                    <latitude>37.826923</latitude>
+                    <longitude>-122.29121</longitude>
+                    <jobkey>e80fc4247ac8225d</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco Bay Area, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Technical Writer</jobtitle>
+                    <company>Cloudera</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Cloudera</source>
+                    <date>Thu, 25 Feb 2016 22:38:01 GMT</date>
+                    <snippet>Experience with Hadoop or Hadoop-related projects. Write installation, configuration, use case, and administration guides for Linux-based Hadoop....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=5746ed45a8254825&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8urprbqcq9co</url>
+                    <onmousedown>indeed_clk(this, &#039;5026&#039;);</onmousedown>
+                    <latitude>37.79269</latitude>
+                    <longitude>-122.40168</longitude>
+                    <jobkey>5746ed45a8254825</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94104</formattedLocationFull>
+                    <formattedRelativeTime>14 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

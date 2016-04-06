@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>326</start>
+    <end>335</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>33</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Senior Marketing Analyst</jobtitle>
+                    <company>EBay</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Ebay</source>
+                    <date>Wed, 09 Mar 2016 04:06:55 GMT</date>
+                    <snippet>Requisition No.: 121092BR Subsidiary: StubHub Primary Job Responsibilities: The Senior Marketing Analyst position at StubHub will focus on marketing...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=cc885ec809b00a1d&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8uni8b04q9ap</url>
+                    <onmousedown>indeed_clk(this, &#039;686&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>cc885ec809b00a1d</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>2016 Summer Intern - Data Science Engineering</jobtitle>
+                    <company>Model Metrics</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Model Metrics</source>
+                    <date>Sun, 21 Feb 2016 02:25:45 GMT</date>
+                    <snippet>Implement ML models at scale using Hadoop, Pig, Hive, HBase, Spark. Design and develop tailored data structures in database and Hadoop....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=2b3f83f985e8bdcf&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8uni8b04q9ap</url>
+                    <onmousedown>indeed_clk(this, &#039;686&#039;);</onmousedown>
+                    <latitude>37.792915</latitude>
+                    <longitude>-122.39254</longitude>
+                    <jobkey>2b3f83f985e8bdcf</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>19 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Data Warehouse Engineer</jobtitle>
+                    <company>Randstad Technologies</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Randstad Technologies</source>
+                    <date>Wed, 09 Mar 2016 20:32:33 GMT</date>
+                    <snippet>Experience using Apache Hive and Hadoop. The ideal candidate will be comfortable fusing traditional dimensional modeling techniques with Hadoop and cloud-based...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=de856ba38ac907d9&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8uni8b04q9ap</url>
+                    <onmousedown>indeed_clk(this, &#039;686&#039;);</onmousedown>
+                    <latitude>37.78846</latitude>
+                    <longitude>-122.4011</longitude>
+                    <jobkey>de856ba38ac907d9</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94108</formattedLocationFull>
+                    <formattedRelativeTime>1 day ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Financial Services Cloud Integration Senior Associate</jobtitle>
+                    <company>PRICE WATERHOUSE COOPERS</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>PwC</source>
+                    <date>Thu, 03 Mar 2016 09:54:18 GMT</date>
+                    <snippet>Hadoop / MapReduce, Google BigQuery, Google BigTable, Amazon RedShift; Are you interested in the opportunity to work for an industry-leading firm that services...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e06d156ee0cde0fc&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8uni8b04q9ap</url>
+                    <onmousedown>indeed_clk(this, &#039;686&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>e06d156ee0cde0fc</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>7 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Data Scientist</jobtitle>
+                    <company>Ancestry</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Ancestry</source>
+                    <date>Sat, 09 Jan 2016 04:06:02 GMT</date>
+                    <snippet>Experience with Hadoop stack (HIVE, Pig, Hadoop streaming) and MapReduce. Build and maintain code to populate HDFS, Hadoop with log from Kafka or data loaded...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=2f36ef111285b6d9&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8uni8b04q9ap</url>
+                    <onmousedown>indeed_clk(this, &#039;686&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>2f36ef111285b6d9</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Director, Product Intelligence</jobtitle>
+                    <company>Realogy Franchise Group</company>
+                    <city>Emeryville</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Emeryville, CA</formattedLocation>
+                    <source>Realogy</source>
+                    <date>Thu, 10 Mar 2016 22:29:12 GMT</date>
+                    <snippet>Experience with SQL, Hadoop, Spark Hive, Pig, and/or MapReduce:. Director, Product Intelligence....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=18ad1f893cdd17a3&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8uni8b04q9ap</url>
+                    <onmousedown>indeed_clk(this, &#039;686&#039;);</onmousedown>
+                    <latitude>37.82967</latitude>
+                    <longitude>-122.28022</longitude>
+                    <jobkey>18ad1f893cdd17a3</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Emeryville, CA</formattedLocationFull>
+                    <formattedRelativeTime>8 hours ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Big Data and Analytics Cloud Architect</jobtitle>
+                    <company>Strategic IT Staffing</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Strategic IT Staffing</source>
+                    <date>Sat, 13 Feb 2016 23:22:05 GMT</date>
+                    <snippet>MySQL, Hadoop, MapReduce, NoSQL, Cassandra, Tableau, etc. Extensive experience in the development of Hadoop frameworks, NoSql databases, and visualization...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=d32363011580b3cf&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8uni8b04q9ap</url>
+                    <onmousedown>indeed_clk(this, &#039;686&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>d32363011580b3cf</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>26 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Integrations Developer</jobtitle>
+                    <company>Autodesk</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Autodesk</source>
+                    <date>Tue, 02 Feb 2016 12:04:34 GMT</date>
+                    <snippet>Experience with Hadoop ecosystem (Hive, Pig, Oozie, Spark, YARN, etc). Senior Integrations Developer....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8382bf2d6c4415c9&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8uni8b04q9ap</url>
+                    <onmousedown>indeed_clk(this, &#039;686&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>8382bf2d6c4415c9</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Business Intelligence Solution Architect</jobtitle>
+                    <company>Pandora Media, Inc.</company>
+                    <city>Oakland</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Oakland, CA</formattedLocation>
+                    <source>Pandora Media, Inc.</source>
+                    <date>Wed, 02 Mar 2016 21:22:31 GMT</date>
+                    <snippet>Understanding of Hadoop, ETL, OLAP, Hive, Pig, Spark, AWS Redshift, Python. This position is responsible for the end-to-end solution design of key business...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=bdc4bd3477b67aea&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8uni8b04q9ap</url>
+                    <onmousedown>indeed_clk(this, &#039;686&#039;);</onmousedown>
+                    <latitude>37.802197</latitude>
+                    <longitude>-122.26923</longitude>
+                    <jobkey>bdc4bd3477b67aea</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Oakland, CA</formattedLocationFull>
+                    <formattedRelativeTime>8 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Enterprise Architect</jobtitle>
+                    <company>The Speedy Recruiter</company>
+                    <city>Novato</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Novato, CA</formattedLocation>
+                    <source>The Speedy Recruiter</source>
+                    <date>Wed, 02 Mar 2016 01:12:23 GMT</date>
+                    <snippet>Want to help reshape an industry? One of the hottest names in Legal technology is looking for an Enterprise Architect to provide technology and business</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=75b4840b9fb8a32d&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8uni8b04q9ap</url>
+                    <onmousedown>indeed_clk(this, &#039;686&#039;);</onmousedown>
+                    <latitude>38.107143</latitude>
+                    <longitude>-122.56593</longitude>
+                    <jobkey>75b4840b9fb8a32d</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>Novato, CA</formattedLocationFull>
+                    <formattedRelativeTime>9 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>676</start>
+    <end>685</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>68</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Senior Data Platform Engineer</jobtitle>
+                    <company>Elevate Recruiting Group</company>
+                    <city>South San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>South San Francisco, CA</formattedLocation>
+                    <source>Elevate Recruiting Group</source>
+                    <date>Thu, 03 Mar 2016 07:19:36 GMT</date>
+                    <snippet>Experience with Big Data platforms e.g. Hadoop, HDFS. Senior Data Platform Engineer South San Francisco, CA | Engineering Job Description Senior Data Platform...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=328b9634f48c798d&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8usrobq8t8i0</url>
+                    <onmousedown>indeed_clk(this, &#039;6081&#039;);</onmousedown>
+                    <latitude>37.653847</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>328b9634f48c798d</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>South San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>8 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Solution Delivery Architect - West Coast</jobtitle>
+                    <company>KP Recruiting Group</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>KP Recruiting Group</source>
+                    <date>Mon, 04 Jan 2016 20:42:54 GMT</date>
+                    <snippet>Experience with Hadoop (Hive). Experience with ETL on Hadoop (strong understanding of strengths and limitations of ETL on Hadoop)....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a5896be8475eb002&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8usrobq8t8i0</url>
+                    <onmousedown>indeed_clk(this, &#039;6081&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>a5896be8475eb002</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Director, Product Management (Platform)</jobtitle>
+                    <company>Salesforce</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Salesforce</source>
+                    <date>Fri, 15 Jan 2016 12:13:51 GMT</date>
+                    <snippet>Experience working with high scale data persistence and processing technologies such Hadoop, HBase, columnar data stores, noSQL, Spark, or similar technologies....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=60c876f4772026d9&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8usrobq8t8i0</url>
+                    <onmousedown>indeed_clk(this, &#039;6081&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>60c876f4772026d9</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Business Intelligence Engineer</jobtitle>
+                    <company>Sparkcentral</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Sparkcentral</source>
+                    <date>Thu, 17 Dec 2015 01:54:53 GMT</date>
+                    <snippet>Why Join Us? We all know that excellent customer service keeps customers coming back for more. At Sparkcentral, we really get that, and our small company</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8ca1370172212b7a&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8usrobq8t8i0</url>
+                    <onmousedown>indeed_clk(this, &#039;6081&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>8ca1370172212b7a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Junior Executive Assistant</jobtitle>
+                    <company>Datameer</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Datameer</source>
+                    <date>Tue, 19 Jan 2016 05:47:28 GMT</date>
+                    <snippet>Datameer is the one-stop-shop for getting all your data into Hadoop, analyzing that data, and visualizing your results....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8c67a1869f0c080c&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8usrobq8t8i0</url>
+                    <onmousedown>indeed_clk(this, &#039;6081&#039;);</onmousedown>
+                    <latitude>37.771976</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>8c67a1869f0c080c</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Generalist Software Engineer (New Grad/Junior Role)</jobtitle>
+                    <company>LiveRamp</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>StackOverflow Jobs</source>
+                    <date>Sun, 21 Feb 2016 06:58:43 GMT</date>
+                    <snippet>Hadoop java mysql ruby j. It&#039;s hard to say what tomorrow&#039;s challenge will be, but you&#039;ll be happy to hack away at it, whether it&#039;s a Ruby on Rails web UI, a...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8892bf473098a9d9&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8usrobq8t8i0</url>
+                    <onmousedown>indeed_clk(this, &#039;6081&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>8892bf473098a9d9</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>19 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Operations Engineer- Site Ops</jobtitle>
+                    <company>RichRelevance</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>RichRelevance</source>
+                    <date>Mon, 07 Mar 2016 06:14:26 GMT</date>
+                    <snippet>RichRelevance is the global leader in omnichannel personalization and is used by more than 200 multinational companies to deliver the most relevant and</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a3ce143035033d45&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8usrobq8t8i0</url>
+                    <onmousedown>indeed_clk(this, &#039;6081&#039;);</onmousedown>
+                    <latitude>37.79392</latitude>
+                    <longitude>-122.400276</longitude>
+                    <jobkey>a3ce143035033d45</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94111</formattedLocationFull>
+                    <formattedRelativeTime>4 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Engineering | Software Engineer</jobtitle>
+                    <company>HouseCanary</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>HouseCanary</source>
+                    <date>Tue, 12 Jan 2016 06:50:52 GMT</date>
+                    <snippet>At HouseCanary, we’re using big data and analytics to predict the future of the real estate market in the US. Our goal is to use this data to help people make</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=9c6ac4a67504e866&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8usrobq8t8i0</url>
+                    <onmousedown>indeed_clk(this, &#039;6081&#039;);</onmousedown>
+                    <latitude>37.781845</latitude>
+                    <longitude>-122.39233</longitude>
+                    <jobkey>9c6ac4a67504e866</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94107</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>QA Engineer</jobtitle>
+                    <company>AltX</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>AltX</source>
+                    <date>Thu, 10 Dec 2015 20:49:54 GMT</date>
+                    <snippet>We have a modern technology stack including Python, AngularJS, Flask, Hadoop (HDFS), relational databases/query engines, and Elasticsearch....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=37b7f0b4d9fd5cee&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8usrobq8t8i0</url>
+                    <onmousedown>indeed_clk(this, &#039;6081&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>37b7f0b4d9fd5cee</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Principal Big Data Engineer</jobtitle>
+                    <company>Cypress HCM</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Cypress HCM</source>
+                    <date>Thu, 04 Feb 2016 08:39:06 GMT</date>
+                    <snippet>2+ years of Big Data / Hadoop / MapReduce, HBase, Hive. Deep knowledge of HBASE, Cassandra, Hadoop, Eco-system of technologies is a big plus....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=386c6dedb3652987&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8usrobq8t8i0</url>
+                    <onmousedown>indeed_clk(this, &#039;6081&#039;);</onmousedown>
+                    <latitude>37.79377</latitude>
+                    <longitude>-122.39665</longitude>
+                    <jobkey>386c6dedb3652987</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94111</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

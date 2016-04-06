@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>301</start>
+    <end>310</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>30</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Software Project Engineer</jobtitle>
+                    <company>S &amp; C Electric Company</company>
+                    <city>Alameda</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Alameda, CA</formattedLocation>
+                    <source>S &amp; C Electric Company</source>
+                    <date>Tue, 23 Feb 2016 17:57:44 GMT</date>
+                    <snippet>Hadoop, Cassandra, Kafka, Redis, Elastic Search, Spark, Kibana. We are hiring multiple Enterprise Software Engineers....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=61ea9fab5f93a8ad&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8unab1fbu264</url>
+                    <onmousedown>indeed_clk(this, &#039;438&#039;);</onmousedown>
+                    <latitude>37.763737</latitude>
+                    <longitude>-122.23627</longitude>
+                    <jobkey>61ea9fab5f93a8ad</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Alameda, CA</formattedLocationFull>
+                    <formattedRelativeTime>16 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer - Realtime Data Processing (Marketplace Dynamics)</jobtitle>
+                    <company>Uber</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Uber</source>
+                    <date>Thu, 14 Jan 2016 19:11:58 GMT</date>
+                    <snippet>Are familiar with either stats, signal processing, or machine learning algorithms.Have deep production experience with large-scale data processing platforms,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=4c85ad2163b78192&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8unab1fbu264</url>
+                    <onmousedown>indeed_clk(this, &#039;438&#039;);</onmousedown>
+                    <latitude>37.771976</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>4c85ad2163b78192</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Search Scientist</jobtitle>
+                    <company>Adobe</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Adobe</source>
+                    <date>Thu, 03 Mar 2016 00:34:22 GMT</date>
+                    <snippet>Search Scientist - 42662 Description Our company At Adobe, we’re changing the world. How? We give people the tools to bring their ideas to life and...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=4d8f589aad76db01&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8unab1fbu264</url>
+                    <onmousedown>indeed_clk(this, &#039;438&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>4d8f589aad76db01</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>8 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Development Engineer II, Big Data</jobtitle>
+                    <company>Car Rentals</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Expedia</source>
+                    <date>Wed, 02 Mar 2016 02:13:07 GMT</date>
+                    <snippet>Experience in processing large amounts of structured and unstructured data from various sources using technologies like Hadoop ecosystem, Map Reduce programming...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=317a3d93a28c5470&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8unab1fbu264</url>
+                    <onmousedown>indeed_clk(this, &#039;438&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>317a3d93a28c5470</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>9 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Analyst, Platform</jobtitle>
+                    <company>Wish</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Wish</source>
+                    <date>Mon, 28 Dec 2015 07:32:42 GMT</date>
+                    <snippet>Wish is revolutionizing the ecommerce experience by providing the most efficient way to sell products on mobile. Our easy to use platform powers over a 100</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b35b6a40a2812462&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8unab1fbu264</url>
+                    <onmousedown>indeed_clk(this, &#039;438&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>b35b6a40a2812462</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Lead Engineer - Data Warehouse</jobtitle>
+                    <company>Rdio</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Rdio</source>
+                    <date>Sun, 20 Dec 2015 06:13:33 GMT</date>
+                    <snippet>Data Warehouse Lead Rdio is the groundbreaking digital music service that is reinventing the way people discover, listen to, and share music. With on-demand</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=7f341da592006bfc&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8unab1fbu264</url>
+                    <onmousedown>indeed_clk(this, &#039;438&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>7f341da592006bfc</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Big Data Engineer</jobtitle>
+                    <company>Trulia</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Trulia</source>
+                    <date>Mon, 15 Feb 2016 22:16:06 GMT</date>
+                    <snippet>Love to work with open source technologies like Spark, Hadoop ecosystems, activeMQ, Kafka, Zookeeper, MySQL, PHP....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=f7f7998a6c11bd33&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8unab1fbu264</url>
+                    <onmousedown>indeed_clk(this, &#039;438&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>f7f7998a6c11bd33</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>24 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Full Stack Engineer</jobtitle>
+                    <company>BlueCart</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Mon, 22 Feb 2016 18:20:51 GMT</date>
+                    <snippet>Working with big data technologies such as Cassandra, Hadoop, Apache Spark, ElasticSearch. Full Stack Engineer*....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=4f2258f8954fce03&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8unab1fbu264</url>
+                    <onmousedown>indeed_clk(this, &#039;438&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>4f2258f8954fce03</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>17 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer, Tools Platform</jobtitle>
+                    <company>Opower</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Opower</source>
+                    <date>Thu, 11 Feb 2016 18:55:50 GMT</date>
+                    <snippet>We use the right tools for each element of our solution set and our engineers get exposure to everything from Ruby on Rails to Java Spring, from JavaScript to...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8a2d733d2d2f4b5a&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8unab1fbu264</url>
+                    <onmousedown>indeed_clk(this, &#039;438&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>8a2d733d2d2f4b5a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>28 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Data Scientist (FinTech)</jobtitle>
+                    <company>Workbridge Associates</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Workbridge Associates</source>
+                    <date>Thu, 03 Mar 2016 00:38:48 GMT</date>
+                    <snippet>Expert in Python, Spark, AWS, and Hadoop. FinTech start-up in the personal loan space in looking to bring on a Senior Data Scientist to add to their growing...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a7877df20c778dc6&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bHA9uWcZlDTeFhQCDj0z_Eo&amp;indpubnum=1986175114212579&amp;atk=1adi8unab1fbu264</url>
+                    <onmousedown>indeed_clk(this, &#039;438&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>a7877df20c778dc6</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>8 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

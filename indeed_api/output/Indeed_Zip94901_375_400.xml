@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>376</start>
+    <end>385</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>38</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Site Reliability Engineer</jobtitle>
+                    <company>Pinterest</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Bessemer Venture Partners</source>
+                    <date>Mon, 22 Feb 2016 22:31:53 GMT</date>
+                    <snippet>Work closely with our development team to design, build and operate our data technologies stack (Apache Hadoop, Apache Hbase, and Kafka including batch-oriented...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=0334ef14ef68be21&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uo5db971b7p</url>
+                    <onmousedown>indeed_clk(this, &#039;1302&#039;);</onmousedown>
+                    <latitude>37.773003</latitude>
+                    <longitude>-122.403755</longitude>
+                    <jobkey>0334ef14ef68be21</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>17 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Talend Developer</jobtitle>
+                    <company>eSolution</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Tue, 12 Jan 2016 19:05:45 GMT</date>
+                    <snippet>Exposure to data modeling, also exposure to data modeling tools like ERWIN • At least 3 years of experience in Data Design and architecture • At least 3 years...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=86f9724a4ededecb&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uo5db971b7p</url>
+                    <onmousedown>indeed_clk(this, &#039;1302&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>86f9724a4ededecb</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Software Engineer</jobtitle>
+                    <company>VigLink</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>VigLink</source>
+                    <date>Fri, 29 Jan 2016 01:52:29 GMT</date>
+                    <snippet>About VigLink: What does VigLink do? Watch this quick video to find out ( https://youtu.be/PK_PEnG41aU ). VigLink is located in heart of San Francisco and...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=0719f058bfb2b83f&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uo5db971b7p</url>
+                    <onmousedown>indeed_clk(this, &#039;1302&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>0719f058bfb2b83f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Analytics Engineer</jobtitle>
+                    <company>AppDirect</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>AppDirect</source>
+                    <date>Tue, 01 Mar 2016 20:59:13 GMT</date>
+                    <snippet>Experience with NoSQL, Elasticsearch, Hadoop. AppDirect is the cloud service commerce leader making software and products accessible globally....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=3dc2ead3cdaadc33&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uo5db971b7p</url>
+                    <onmousedown>indeed_clk(this, &#039;1302&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>3dc2ead3cdaadc33</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>9 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Lead BSA - Enterprise Data Warehouse (EDW)</jobtitle>
+                    <company>Model Metrics</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Model Metrics</source>
+                    <date>Fri, 12 Feb 2016 01:27:10 GMT</date>
+                    <snippet>This platform also includes management of a Big Data Hadoop platform to store unstructured application log data that is generated by the Salesforce product...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a33b6acbe366a7ab&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uo5db971b7p</url>
+                    <onmousedown>indeed_clk(this, &#039;1302&#039;);</onmousedown>
+                    <latitude>37.792915</latitude>
+                    <longitude>-122.39254</longitude>
+                    <jobkey>a33b6acbe366a7ab</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>28 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Principal Engineer</jobtitle>
+                    <company>Nomis Solutions</company>
+                    <city>San Bruno</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Bruno, CA</formattedLocation>
+                    <source>Nomis Solutions</source>
+                    <date>Sat, 06 Feb 2016 01:50:30 GMT</date>
+                    <snippet>Bonus points for experience with Hadoop eco-system, Spark, Angular.JS and Node.JS. Nomis is looking for a phenomenal Principal Engineer to help evolve our best...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=4226f5a7f0f81364&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uo5db971b7p</url>
+                    <onmousedown>indeed_clk(this, &#039;1302&#039;);</onmousedown>
+                    <latitude>37.62912</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>4226f5a7f0f81364</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Bruno, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Data Scientist / Engineer</jobtitle>
+                    <company>Coffee Meets Bagel</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Coffee Meets Bagel</source>
+                    <date>Fri, 18 Dec 2015 02:22:05 GMT</date>
+                    <snippet>3+ years of experience working with big data, using tools such as Spark, Hadoop or Storm. At the core of Coffee Meets Bagel is our sophisticated matching...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8cafdeb32f3cdf31&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uo5db971b7p</url>
+                    <onmousedown>indeed_clk(this, &#039;1302&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>8cafdeb32f3cdf31</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Engineer</jobtitle>
+                    <company>Samba TV</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Samba TV</source>
+                    <date>Sun, 22 Nov 2015 06:49:15 GMT</date>
+                    <snippet>We are looking for a Senior Software Engineer who will be responsible for architecting, implementing, and maintaining our analytics platform that will</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=d9f7beeaa65f33d9&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uo5db971b7p</url>
+                    <onmousedown>indeed_clk(this, &#039;1302&#039;);</onmousedown>
+                    <latitude>37.786987</latitude>
+                    <longitude>-122.39558</longitude>
+                    <jobkey>d9f7beeaa65f33d9</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Engineer / Architect ( Data Mining Startup)</jobtitle>
+                    <company>Workbridge Associates</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Workbridge Associates</source>
+                    <date>Fri, 04 Mar 2016 00:42:48 GMT</date>
+                    <snippet>Extra points for Hadoop, Spark and Apachee. A rapidly growing, well-funded retail consumer data-mining company is seeking a Data Architect/Pipeline Engineer...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=adb7dec06112efdc&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uo5db971b7p</url>
+                    <onmousedown>indeed_clk(this, &#039;1302&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>adb7dec06112efdc</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>7 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Java Software Engineer - Contract to Hire</jobtitle>
+                    <company>Jobspring Partners</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Jobspring Partners</source>
+                    <date>Wed, 09 Mar 2016 20:18:24 GMT</date>
+                    <snippet>Java, Javascript, Spring, Hibernate, REST, REST API, ttd, TTD, J2ee, oracle, sql, HTML, C#, asp.net, CSS, Spring, Hibernate, MongoDB, Hadoop, Couchbase, ORM,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=ee8c3fb8c29cda4a&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uo5db971b7p</url>
+                    <onmousedown>indeed_clk(this, &#039;1302&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>ee8c3fb8c29cda4a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>1 day ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

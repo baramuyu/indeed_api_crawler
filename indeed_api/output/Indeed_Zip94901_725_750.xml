@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>726</start>
+    <end>735</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>73</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Digital Marketing (Analytics Modeling)</jobtitle>
+                    <company>Kennedy Unlimited Inc, Professional Staffing</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Kennedy Unlimited Inc, Professional Staffing</source>
+                    <date>Wed, 02 Mar 2016 01:24:15 GMT</date>
+                    <snippet>We are assisting our Client, an innovative high growth leader, Digital Marketing (Analytics Modeling). Fast growing with huge potential in the marketplace.</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=937cd525786a1031&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8utfgb0cqb16</url>
+                    <onmousedown>indeed_clk(this, &#039;6729&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>937cd525786a1031</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>9 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Information Retrieval Engineer</jobtitle>
+                    <company>Andiamo! Group</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Andiamo! Group</source>
+                    <date>Mon, 15 Feb 2016 06:44:41 GMT</date>
+                    <snippet>Experience in working with terabyte data sets and developing applications using Hadoop and mad-reduce. Information Retrieval Engineer (2923MMR)....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e949d704855c1587&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8utfgb0cqb16</url>
+                    <onmousedown>indeed_clk(this, &#039;6729&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>e949d704855c1587</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>25 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer, Big Data, YouTube</jobtitle>
+                    <company>Google</company>
+                    <city>San Bruno</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Bruno, CA</formattedLocation>
+                    <source>Google</source>
+                    <date>Wed, 25 Nov 2015 06:23:51 GMT</date>
+                    <snippet>Experience with MapReduce or Hadoop. Google&#039;s software engineers develop the next-generation technologies that change how millions of users connect, explore,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=85c9eb7e2529ce0a&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8utfgb0cqb16</url>
+                    <onmousedown>indeed_clk(this, &#039;6729&#039;);</onmousedown>
+                    <latitude>37.62912</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>85c9eb7e2529ce0a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Bruno, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>DevOps Engineer for Mobile Saas Startup</jobtitle>
+                    <company>Workbridge Associates</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Workbridge Associates</source>
+                    <date>Mon, 08 Feb 2016 23:24:28 GMT</date>
+                    <snippet>Popular mobile engagement startup has an open job for a Senior DevOps Engineer in the downtown San Francisco office. The company creates engagement plans for</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b8b8da802a3085d7&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8utfgb0cqb16</url>
+                    <onmousedown>indeed_clk(this, &#039;6729&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>b8b8da802a3085d7</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Impala Engineering Manager</jobtitle>
+                    <company>Cloudera</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Cloudera</source>
+                    <date>Sun, 21 Feb 2016 06:23:57 GMT</date>
+                    <snippet>Impala (see http://impala.io ) is a scalable and fast SQL query engine that runs directly on Hadoop and supports a wide range of analytic workloads, from</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=4b83687b179c3322&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8utfgb0cqb16</url>
+                    <onmousedown>indeed_clk(this, &#039;6729&#039;);</onmousedown>
+                    <latitude>37.79269</latitude>
+                    <longitude>-122.40168</longitude>
+                    <jobkey>4b83687b179c3322</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94104</formattedLocationFull>
+                    <formattedRelativeTime>19 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Scientist</jobtitle>
+                    <company>Etouch Systems Corp</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Dice</source>
+                    <date>Thu, 03 Mar 2016 03:36:30 GMT</date>
+                    <snippet>Strong passion for answering complex business questions using structured problem solving and rigorous data analysis Ability to communicate complex quantitative...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=2509b2a6356d2936&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8utfgb0cqb16</url>
+                    <onmousedown>indeed_clk(this, &#039;6729&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>2509b2a6356d2936</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>8 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr Data Eng (B)</jobtitle>
+                    <company>Bayside Solutions</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Bayside Solutions</source>
+                    <date>Tue, 05 Jan 2016 20:51:00 GMT</date>
+                    <snippet>Control-M experience, PowerCenter ETL, and Hadoop experience. Senior Data Engineer....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e73ea65c47399af5&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8utfgb0cqb16</url>
+                    <onmousedown>indeed_clk(this, &#039;6729&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>e73ea65c47399af5</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior DevOps Engineer</jobtitle>
+                    <company>Strategic IT Staffing</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Strategic IT Staffing</source>
+                    <date>Tue, 16 Feb 2016 17:32:56 GMT</date>
+                    <snippet>Have a strong interest in distributed computing, e.g., NoSQL, Cassandra and Hadoop. Senior DevOps Engineer....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b34a4d6ec68d96f6&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8utfgb0cqb16</url>
+                    <onmousedown>indeed_clk(this, &#039;6729&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>b34a4d6ec68d96f6</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>23 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Intern IPG Data Visualization Developer</jobtitle>
+                    <company>Autodesk</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Autodesk</source>
+                    <date>Sat, 09 Jan 2016 13:59:05 GMT</date>
+                    <snippet>Working with cutting edge analytics tools like Kafka, Splunk, Hadoop, Google Big Query, Tableau and more....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=923c58da3d9d189f&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8utfgb0cqb16</url>
+                    <onmousedown>indeed_clk(this, &#039;6729&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>923c58da3d9d189f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Machine Learning Engineer</jobtitle>
+                    <company>Chartboost</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Chartboost</source>
+                    <date>Mon, 04 Jan 2016 21:51:50 GMT</date>
+                    <snippet>Our technology stack includes Kafka, Hadoop, HBase, Spark, and Scala running on AWS. Chartboost is the world’s largest mobile games-only platform, helping...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=eb59287873e7a881&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bPdn0VsKU_NlvVtjsTy7kPw&amp;indpubnum=1986175114212579&amp;atk=1adi8utfgb0cqb16</url>
+                    <onmousedown>indeed_clk(this, &#039;6729&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>eb59287873e7a881</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

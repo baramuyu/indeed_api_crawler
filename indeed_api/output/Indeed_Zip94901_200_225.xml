@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>201</start>
+    <end>210</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>20</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Java developer with Hadoop experience</jobtitle>
+                    <company>Redolent, Inc</company>
+                    <city>San Bruno</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Bruno, CA</formattedLocation>
+                    <source>Redolent, Inc</source>
+                    <date>Thu, 11 Feb 2016 11:12:53 GMT</date>
+                    <snippet>Java developer -- with Hadoop. J ava/J2EE, JavaScript, Apache , Tomcat, Hadoop, REST , Web-Services. 2+ years of experience with Full-Stack development...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=6e90aacf17391ad6&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8um41bq4scmt</url>
+                    <onmousedown>indeed_clk(this, &#039;9209&#039;);</onmousedown>
+                    <latitude>37.62912</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>6e90aacf17391ad6</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Bruno, CA</formattedLocationFull>
+                    <formattedRelativeTime>28 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Backend Java Developer IV</jobtitle>
+                    <company>SAPVIX</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Thu, 25 Feb 2016 23:56:31 GMT</date>
+                    <snippet>Hadoop, HDFS, Spark Hive, Pig, Oozie, Zoo Keeper, Hbase, Mongo. Backend Java Developer IV....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b9a0add672cf607c&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8um41bq4scmt</url>
+                    <onmousedown>indeed_clk(this, &#039;9209&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>b9a0add672cf607c</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>14 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Technical Architect</jobtitle>
+                    <company>Avenue Code</company>
+                    <city>San Francisco Bay Area</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco Bay Area, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Thu, 21 Jan 2016 00:39:20 GMT</date>
+                    <snippet>Experience with Big Data, Hadoop and related technologies. Avenue Code is an eCommerce consulting firm based in downtown San Francisco, with two additional...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=eee77550fa9bfb54&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8um41bq4scmt</url>
+                    <onmousedown>indeed_clk(this, &#039;9209&#039;);</onmousedown>
+                    <latitude>37.826923</latitude>
+                    <longitude>-122.29121</longitude>
+                    <jobkey>eee77550fa9bfb54</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco Bay Area, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Engineer</jobtitle>
+                    <company>LendUp</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>LendUp</source>
+                    <date>Fri, 15 Jan 2016 06:50:50 GMT</date>
+                    <snippet>Love to use and develop open source technologies like Hadoop, Spark, Hive, Presto, and Mesos. LendUp is a financial technology startup, based in San Francisco,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=2bc58959fff5f826&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8um41bq4scmt</url>
+                    <onmousedown>indeed_clk(this, &#039;9209&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>2bc58959fff5f826</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Performance Engineer</jobtitle>
+                    <company>Graviton Consulting Services Inc</company>
+                    <city>Walnut Creek</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Walnut Creek, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Thu, 18 Feb 2016 22:18:04 GMT</date>
+                    <snippet>*Job Role: * *Performance Engineer* *Location: Walnut Creek, CA* *Duration: Long Term* *&#034;Local Candidates Only&#034;* *Responsibilities: * As *Performance...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a094bc286dbbf6c7&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8um41bq4scmt</url>
+                    <onmousedown>indeed_clk(this, &#039;9209&#039;);</onmousedown>
+                    <latitude>37.903847</latitude>
+                    <longitude>-122.06044</longitude>
+                    <jobkey>a094bc286dbbf6c7</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>Walnut Creek, CA</formattedLocationFull>
+                    <formattedRelativeTime>21 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Systems Engineer</jobtitle>
+                    <company>Model Metrics</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Model Metrics</source>
+                    <date>Thu, 25 Feb 2016 20:44:41 GMT</date>
+                    <snippet>Experience with live site operations for HBase, Hadoop clusters at scale. Own and drive production infrastructure engineering support for our HBase, Hadoop...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=9c19034687cc3b98&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8um41bq4scmt</url>
+                    <onmousedown>indeed_clk(this, &#039;9209&#039;);</onmousedown>
+                    <latitude>37.792915</latitude>
+                    <longitude>-122.39254</longitude>
+                    <jobkey>9c19034687cc3b98</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>14 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Business Information Architect</jobtitle>
+                    <company>CSAA Insurance Group</company>
+                    <city>Walnut Creek</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Walnut Creek, CA</formattedLocation>
+                    <source>CSAA Insurance Group</source>
+                    <date>Thu, 03 Mar 2016 06:47:34 GMT</date>
+                    <snippet>Role Summary: Organization: Enterprise Data Governance, Business Information Architecture &amp; Data Standards and Processes Business Information Architects set</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=36ce6a53a70a4fed&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8um41bq4scmt</url>
+                    <onmousedown>indeed_clk(this, &#039;9209&#039;);</onmousedown>
+                    <latitude>37.903847</latitude>
+                    <longitude>-122.06044</longitude>
+                    <jobkey>36ce6a53a70a4fed</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Walnut Creek, CA</formattedLocationFull>
+                    <formattedRelativeTime>8 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Backend Software Engineer (All Levels), Rally Core</jobtitle>
+                    <company>Rally Health</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Rally Health</source>
+                    <date>Fri, 04 Mar 2016 02:50:47 GMT</date>
+                    <snippet>Experience with Hadoop computational and storage layers. Kafka, Hadoop (CDH), Avro, Spark and Spark Streaming, Airflow....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=03dc89b5dfbf248e&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8um41bq4scmt</url>
+                    <onmousedown>indeed_clk(this, &#039;9209&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>03dc89b5dfbf248e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>7 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Architect</jobtitle>
+                    <company>Avenue Code</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Fri, 19 Feb 2016 22:29:59 GMT</date>
+                    <snippet>Experience with Big Data, Hadoop and related technologies. Avenue Code is an eCommerce consulting firm based in downtown San Francisco, with two additional...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=6ec6a2ee0151c99f&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8um41bq4scmt</url>
+                    <onmousedown>indeed_clk(this, &#039;9209&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>6ec6a2ee0151c99f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>20 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Software Engineer - Cloud Computing</jobtitle>
+                    <company>iRhythm</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>iRhythm</source>
+                    <date>Wed, 23 Dec 2015 21:49:46 GMT</date>
+                    <snippet>Experience with AWS, Hadoop, Spark, Kafka, and MySQL technologies. Build highly available, fault-tolerant, scalable batch and real-time distributed data...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b9a153d6f4796c24&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bE0Hiu28loG8E6GomB-phb0&amp;indpubnum=1986175114212579&amp;atk=1adi8um41bq4scmt</url>
+                    <onmousedown>indeed_clk(this, &#039;9209&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>b9a153d6f4796c24</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

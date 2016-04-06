@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>626</start>
+    <end>635</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>63</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Software Engineer Hadoop Platform</jobtitle>
+                    <company>Infolob Solutions Inc</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Dice</source>
+                    <date>Fri, 11 Mar 2016 00:03:13 GMT</date>
+                    <snippet>Software Engineer – Hadoop Platform (5380090) Location:. San Francisco, CA Duration:....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e4481d820e97eef4&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8us85b9r2bdf</url>
+                    <onmousedown>indeed_clk(this, &#039;5476&#039;);</onmousedown>
+                    <latitude>37.785713</latitude>
+                    <longitude>-122.39011</longitude>
+                    <jobkey>e4481d820e97eef4</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>7 hours ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Analyst</jobtitle>
+                    <company>iMATCHATIVE</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Dice</source>
+                    <date>Thu, 25 Feb 2016 00:08:38 GMT</date>
+                    <snippet>We have a modern data engineering technology stack including Python, AngularJS, Hadoop (HDFS), relational databases/query engines and Elasticsearch....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a64a557b2dee3fb9&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8us85b9r2bdf</url>
+                    <onmousedown>indeed_clk(this, &#039;5476&#039;);</onmousedown>
+                    <latitude>37.785713</latitude>
+                    <longitude>-122.39011</longitude>
+                    <jobkey>a64a557b2dee3fb9</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>15 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Distributed Systems Engineer - Piston CloudOS</jobtitle>
+                    <company>Cisco Systems, Inc.</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Cisco Systems</source>
+                    <date>Thu, 24 Dec 2015 08:28:44 GMT</date>
+                    <snippet>The CloudOS team develops software that enables push-button deployment of Big Data services such as Hadoop, Yarn, and Spark, container orchestration solutions...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=20616ab4fa5d6a3f&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8us85b9r2bdf</url>
+                    <onmousedown>indeed_clk(this, &#039;5476&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>20616ab4fa5d6a3f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Engineering Manager - Data team</jobtitle>
+                    <company>CloudFlare</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CloudFlare</source>
+                    <date>Thu, 11 Feb 2016 02:41:10 GMT</date>
+                    <snippet>Experience using distributed systems like or similar to Hadoop, Kafka and Zookeeper. At CloudFlare, we have our eyes set on an ambitious goal -- to build a...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=20345065148d3722&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8us85b9r2bdf</url>
+                    <onmousedown>indeed_clk(this, &#039;5476&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>20345065148d3722</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>29 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Head of Business Intelligence</jobtitle>
+                    <company>Lyft Corporate</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Lyft Corporate</source>
+                    <date>Thu, 18 Feb 2016 13:06:47 GMT</date>
+                    <snippet>Experience with many forms of data infrastructure, including big data frameworks (Spark, Hadoop), columnar databases (Redshift, Vertica), and RDBMS (MySQL,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8c9e8b1701198f56&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8us85b9r2bdf</url>
+                    <onmousedown>indeed_clk(this, &#039;5476&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>8c9e8b1701198f56</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>21 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Data Scientist</jobtitle>
+                    <company>Workbridge Associates</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Workbridge Associates</source>
+                    <date>Thu, 21 Jan 2016 04:26:14 GMT</date>
+                    <snippet>Strong experience R, Hadoop, Hive, Impala, SQL, Apachee, Spark, Python and MySQL. Mobile gaming company in the Mission near downtown San Francisco is looking to...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b06fbb62e42a6c4a&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8us85b9r2bdf</url>
+                    <onmousedown>indeed_clk(this, &#039;5476&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>b06fbb62e42a6c4a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer, Test &amp; Automation - Database</jobtitle>
+                    <company>Cloudera</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Cloudera</source>
+                    <date>Sat, 20 Feb 2016 06:19:18 GMT</date>
+                    <snippet>Cloudera is the Hadoop market leader. Validate integration into the Apache Hadoop ecosystem. Experience with Apache Hadoop and its related technologies is a...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=dc709d2f3954ea2e&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8us85b9r2bdf</url>
+                    <onmousedown>indeed_clk(this, &#039;5476&#039;);</onmousedown>
+                    <latitude>37.79269</latitude>
+                    <longitude>-122.40168</longitude>
+                    <jobkey>dc709d2f3954ea2e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94104</formattedLocationFull>
+                    <formattedRelativeTime>20 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Back End Engineer</jobtitle>
+                    <company>Erp And Erp Corp</company>
+                    <city>San Bruno</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Bruno, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Tue, 08 Mar 2016 23:12:19 GMT</date>
+                    <snippet>* Become a key member of a highly-valuable, innovative team solving the challenge of obtaining product data for the entire Walmart store assortment and making</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=938779552e3789d5&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8us85b9r2bdf</url>
+                    <onmousedown>indeed_clk(this, &#039;5476&#039;);</onmousedown>
+                    <latitude>37.62912</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>938779552e3789d5</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Bruno, CA</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Java/Scala Developer</jobtitle>
+                    <company>Randstad Technologies</company>
+                    <city>Emeryville</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Emeryville, CA</formattedLocation>
+                    <source>Randstad Technologies</source>
+                    <date>Wed, 24 Feb 2016 23:32:53 GMT</date>
+                    <snippet>Must be experienced in Java, Scala, Spark, SBT, and Hadoop. Need an experienced buildmaster to put together a baseline continuous integration build environment...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=601df02c551ac4bd&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8us85b9r2bdf</url>
+                    <onmousedown>indeed_clk(this, &#039;5476&#039;);</onmousedown>
+                    <latitude>37.832417</latitude>
+                    <longitude>-122.28571</longitude>
+                    <jobkey>601df02c551ac4bd</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Emeryville, CA 94608</formattedLocationFull>
+                    <formattedRelativeTime>15 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Infrastructure Engineer ­- Platform</jobtitle>
+                    <company>HotSchedules</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>HotSchedules</source>
+                    <date>Thu, 04 Feb 2016 05:22:39 GMT</date>
+                    <snippet>Experience operating real time analytics infrastructures such as Storm, Hadoop, HBase, or Amazon EMR. Infrastructure Engineer - Platform....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e8621f29437bfa85&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bCZfEjl4aaHf4OO3GSMW2l4&amp;indpubnum=1986175114212579&amp;atk=1adi8us85b9r2bdf</url>
+                    <onmousedown>indeed_clk(this, &#039;5476&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>e8621f29437bfa85</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

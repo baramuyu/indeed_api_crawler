@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>126</start>
+    <end>135</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>13</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Big Data Engineer/ Senior Data Engineer</jobtitle>
+                    <company>Ancestry</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Ancestry</source>
+                    <date>Fri, 08 Jan 2016 04:05:54 GMT</date>
+                    <snippet>Experience with Hadoop stack (HIVE, Pig, Hadoop streaming) and MapReduce. Design and implement best practices for cloud based cluster deployments of Hadoop,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8aeff41fe5c08440&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKSTzZ3JIR19wITbahfp5Zs&amp;indpubnum=1986175114212579&amp;atk=1adi8ulcibqcqf5q</url>
+                    <onmousedown>indeed_clk(this, &#039;8437&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>8aeff41fe5c08440</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Software Engineer, Big Data / Content Technology</jobtitle>
+                    <company>Ascent Services Group</company>
+                    <city>Emeryville</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Emeryville, CA</formattedLocation>
+                    <source>Ascent Services Group</source>
+                    <date>Sat, 13 Feb 2016 16:35:13 GMT</date>
+                    <snippet>Spark, Scala, Java, Akka, Kafka, Zookeeper, Cassandra, Hadoop, AWS. Developing an ingestion platform for terabytes of user events using a variety of tools such...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=0c1ce94a2ecd364c&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKSTzZ3JIR19wITbahfp5Zs&amp;indpubnum=1986175114212579&amp;atk=1adi8ulcibqcqf5q</url>
+                    <onmousedown>indeed_clk(this, &#039;8437&#039;);</onmousedown>
+                    <latitude>37.832417</latitude>
+                    <longitude>-122.28571</longitude>
+                    <jobkey>0c1ce94a2ecd364c</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Emeryville, CA 94608</formattedLocationFull>
+                    <formattedRelativeTime>26 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Software Engineer (Big Data), Content Technology</jobtitle>
+                    <company>Gracenote</company>
+                    <city>Emeryville</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Emeryville, CA</formattedLocation>
+                    <source>Gracenote</source>
+                    <date>Thu, 10 Dec 2015 17:24:47 GMT</date>
+                    <snippet>Spark, Scala, Java, Akka, Kafka, Zookeeper, Cassandra, Hadoop, AWS. Developing an ingestion platform for terabytes of user events using a variety of tools such...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=70b4c724ab8f2278&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKSTzZ3JIR19wITbahfp5Zs&amp;indpubnum=1986175114212579&amp;atk=1adi8ulcibqcqf5q</url>
+                    <onmousedown>indeed_clk(this, &#039;8437&#039;);</onmousedown>
+                    <latitude>37.83817</latitude>
+                    <longitude>-122.30069</longitude>
+                    <jobkey>70b4c724ab8f2278</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>Emeryville, CA 94608</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Software Engineer</jobtitle>
+                    <company>IBM</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>IBM</source>
+                    <date>Tue, 17 Nov 2015 17:19:33 GMT</date>
+                    <snippet>At least 2 years experience in Apache Hadoop or Spark programming. IBM is seeking to hire a Systems Software Engineer to join our team....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=736cd4d7d8502b6c&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKSTzZ3JIR19wITbahfp5Zs&amp;indpubnum=1986175114212579&amp;atk=1adi8ulcibqcqf5q</url>
+                    <onmousedown>indeed_clk(this, &#039;8437&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>736cd4d7d8502b6c</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Big Data Software Engineer</jobtitle>
+                    <company>Automatic</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Automatic</source>
+                    <date>Wed, 09 Mar 2016 06:49:30 GMT</date>
+                    <snippet>About us: Connected technology has transformed most of our lives, but our cars have been left behind. Our mission at Automatic (automatic.com ( automatic.com </snippet>
+                    <url>http://www.indeed.com/viewjob?jk=47abd8a62ad0c5c5&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKSTzZ3JIR19wITbahfp5Zs&amp;indpubnum=1986175114212579&amp;atk=1adi8ulcibqcqf5q</url>
+                    <onmousedown>indeed_clk(this, &#039;8437&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>47abd8a62ad0c5c5</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Hadoop Framework Developer</jobtitle>
+                    <company>Strategic IT Staffing</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Strategic IT Staffing</source>
+                    <date>Sun, 14 Feb 2016 23:25:14 GMT</date>
+                    <snippet>Hadoop Framework Developer. Experience using Hadoop technologies. Experience using Hadoop technologies (HDFS, Hive, HBASE, Pig) is a plus....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=f2dfa857dc57d15f&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKSTzZ3JIR19wITbahfp5Zs&amp;indpubnum=1986175114212579&amp;atk=1adi8ulcibqcqf5q</url>
+                    <onmousedown>indeed_clk(this, &#039;8437&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>f2dfa857dc57d15f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>25 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>FRESH H1B 2016</jobtitle>
+                    <company>MavrickIT</company>
+                    <city>Richmond</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Richmond, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Thu, 04 Feb 2016 21:31:02 GMT</date>
+                    <snippet>*Fresh 2016 H1B Filing!!* *Do you have 3+years of software experience?* *Are you looking for projects in USA?* *Benefits offered* : * Regular Benefits:</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=1a600b9833459c85&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKSTzZ3JIR19wITbahfp5Zs&amp;indpubnum=1986175114212579&amp;atk=1adi8ulcibqcqf5q</url>
+                    <onmousedown>indeed_clk(this, &#039;8437&#039;);</onmousedown>
+                    <latitude>37.934067</latitude>
+                    <longitude>-122.34615</longitude>
+                    <jobkey>1a600b9833459c85</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>Richmond, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Data Engineer</jobtitle>
+                    <company>Accuen</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Accuen</source>
+                    <date>Wed, 09 Dec 2015 19:06:13 GMT</date>
+                    <snippet>Experience using Hadoop ecosystem technologies - esp. Accuen is Omnicom Media Group’s programmatic agency, operating the industry’s first open and flexible...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=d99fbb0ceb213be7&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKSTzZ3JIR19wITbahfp5Zs&amp;indpubnum=1986175114212579&amp;atk=1adi8ulcibqcqf5q</url>
+                    <onmousedown>indeed_clk(this, &#039;8437&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>d99fbb0ceb213be7</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Search Scientist</jobtitle>
+                    <company>Adobe</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Adobe</source>
+                    <date>Thu, 03 Mar 2016 00:34:22 GMT</date>
+                    <snippet>Search Scientist - 42662 Description Our company At Adobe, we’re changing the world. How? We give people the tools to bring their ideas to life and...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=4d8f589aad76db01&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKSTzZ3JIR19wITbahfp5Zs&amp;indpubnum=1986175114212579&amp;atk=1adi8ulcibqcqf5q</url>
+                    <onmousedown>indeed_clk(this, &#039;8437&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>4d8f589aad76db01</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>8 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>IT BI Engineer</jobtitle>
+                    <company>Twitter</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Twitter</source>
+                    <date>Sat, 05 Mar 2016 13:16:13 GMT</date>
+                    <snippet>At Twitter our IT Business Systems team focuses on implementing and supporting applications to help our internal customers meet their operational needs. We</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=8137e7368fe60f63&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bKSTzZ3JIR19wITbahfp5Zs&amp;indpubnum=1986175114212579&amp;atk=1adi8ulcibqcqf5q</url>
+                    <onmousedown>indeed_clk(this, &#039;8437&#039;);</onmousedown>
+                    <latitude>37.776848</latitude>
+                    <longitude>-122.41679</longitude>
+                    <jobkey>8137e7368fe60f63</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>5 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

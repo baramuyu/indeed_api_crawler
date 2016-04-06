@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>501</start>
+    <end>510</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>50</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>DevOps Engineer</jobtitle>
+                    <company>Weebly</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Weebly</source>
+                    <date>Wed, 10 Feb 2016 06:49:35 GMT</date>
+                    <snippet>Experience with caching mechanisms and unstructured data stores (Redis, Memcache, Hadoop, or similar technologies)....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=c2af3b36c0494648&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bOKJTTssavFd_gO1i1Q272M&amp;indpubnum=1986175114212579&amp;atk=1adi8uq14bqktfgl</url>
+                    <onmousedown>indeed_clk(this, &#039;3214&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>c2af3b36c0494648</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer - Big Data/$54 W2</jobtitle>
+                    <company>Sedona IT Solutions, LLC</company>
+                    <city>San Bruno</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Bruno, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Thu, 03 Mar 2016 02:41:45 GMT</date>
+                    <snippet>Java, C/C++, or Python, Hadoop:. Deep understanding of Map Reduce framework &amp;amp; Hadoop. Qualifications - A Master of Science degree or equivalent in Computer...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=1c2284900a8f595d&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bOKJTTssavFd_gO1i1Q272M&amp;indpubnum=1986175114212579&amp;atk=1adi8uq14bqktfgl</url>
+                    <onmousedown>indeed_clk(this, &#039;3214&#039;);</onmousedown>
+                    <latitude>37.62912</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>1c2284900a8f595d</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Bruno, CA</formattedLocationFull>
+                    <formattedRelativeTime>8 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer - Analytics &amp; Reporting (Sr./Staff/Principal)</jobtitle>
+                    <company>Okta</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Okta</source>
+                    <date>Thu, 21 Jan 2016 22:40:52 GMT</date>
+                    <snippet>Title of Job: Software Engineer – Reporting &amp; Analytics (Sr./Staff/Principal) Role Located in : Okta Headquarters (San Francisco, CA) Reports to : Engineering</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b3c36dae353af18e&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bOKJTTssavFd_gO1i1Q272M&amp;indpubnum=1986175114212579&amp;atk=1adi8uq14bqktfgl</url>
+                    <onmousedown>indeed_clk(this, &#039;3214&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>b3c36dae353af18e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Architect, Big Data Systems</jobtitle>
+                    <company>Gracenote</company>
+                    <city>Emeryville</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Emeryville, CA</formattedLocation>
+                    <source>Gracenote</source>
+                    <date>Wed, 13 Jan 2016 07:08:15 GMT</date>
+                    <snippet>In your role as an Architect, Big Data Systems, you will be part of the small, highly collaborative team that develops and maintains the Gracenote profiling,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=7de95e546e082f89&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bOKJTTssavFd_gO1i1Q272M&amp;indpubnum=1986175114212579&amp;atk=1adi8uq14bqktfgl</url>
+                    <onmousedown>indeed_clk(this, &#039;3214&#039;);</onmousedown>
+                    <latitude>37.83817</latitude>
+                    <longitude>-122.30069</longitude>
+                    <jobkey>7de95e546e082f89</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>Emeryville, CA 94608</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>DevOps Engineers</jobtitle>
+                    <company>Grit Matters</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Grit Matters</source>
+                    <date>Thu, 28 Jan 2016 04:16:26 GMT</date>
+                    <snippet>Experience with Cloudera Hadoop (CDH), Apache Storm, Apache Kafka, and related technologies. Qadium seeks an experienced DevOps Engineer for improving our end...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=c5b6a128beefda36&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bOKJTTssavFd_gO1i1Q272M&amp;indpubnum=1986175114212579&amp;atk=1adi8uq14bqktfgl</url>
+                    <onmousedown>indeed_clk(this, &#039;3214&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>c5b6a128beefda36</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Lead QE Engineer</jobtitle>
+                    <company>Grit Matters</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Grit Matters</source>
+                    <date>Wed, 13 Jan 2016 21:32:57 GMT</date>
+                    <snippet>Trifacta is looking for talented and dedicated engineers to join our world-class team and build the software that is changing the way our users work with data</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=ffcc3e204e8d7dd3&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bOKJTTssavFd_gO1i1Q272M&amp;indpubnum=1986175114212579&amp;atk=1adi8uq14bqktfgl</url>
+                    <onmousedown>indeed_clk(this, &#039;3214&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>ffcc3e204e8d7dd3</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Engineer, Java</jobtitle>
+                    <company>Airbnb</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Airbnb</source>
+                    <date>Wed, 24 Feb 2016 06:46:24 GMT</date>
+                    <snippet>Why are Java Engineers important at Airbnb? ------------------------------------------- As Airbnb grows we’re increasingly relying on service-oriented</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=f9293a246a050af0&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bOKJTTssavFd_gO1i1Q272M&amp;indpubnum=1986175114212579&amp;atk=1adi8uq14bqktfgl</url>
+                    <onmousedown>indeed_clk(this, &#039;3214&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>f9293a246a050af0</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>16 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Backend Java Developer - Hadoop</jobtitle>
+                    <company>e-Solutions Inc</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Thu, 25 Feb 2016 17:18:31 GMT</date>
+                    <snippet>Backend Java Developer - Hadoop:. Hadoop, HDFS, Spark Hive, Pig, Oozie, Zoo Keeper, Hbase, Mongo. High-volume real-time data ingestion frameworks and automate...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e6992145a98b752e&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bOKJTTssavFd_gO1i1Q272M&amp;indpubnum=1986175114212579&amp;atk=1adi8uq14bqktfgl</url>
+                    <onmousedown>indeed_clk(this, &#039;3214&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>e6992145a98b752e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>14 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Big Data Talend Developer</jobtitle>
+                    <company>Nisum Technologies</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Dice</source>
+                    <date>Wed, 09 Mar 2016 02:30:59 GMT</date>
+                    <snippet>Familiar with all components of the BigData stack in detail, e.g., Hadoop, Pig, Hive, HBase, Oozie Advanced experience with large BigData or Data warehouse...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e70b5ce4b6400af0&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bOKJTTssavFd_gO1i1Q272M&amp;indpubnum=1986175114212579&amp;atk=1adi8uq14bqktfgl</url>
+                    <onmousedown>indeed_clk(this, &#039;3214&#039;);</onmousedown>
+                    <latitude>37.76923</latitude>
+                    <longitude>-122.39011</longitude>
+                    <jobkey>e70b5ce4b6400af0</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94107</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Software Developer</jobtitle>
+                    <company>netPolarity</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>netPolarity</source>
+                    <date>Thu, 10 Mar 2016 19:23:48 GMT</date>
+                    <snippet>Software Engineer – Hadoop Platform. Brand New Software Developer Position has opened with A Fortune 500 Corporation!...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=c87c32cf9f3ee751&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bOKJTTssavFd_gO1i1Q272M&amp;indpubnum=1986175114212579&amp;atk=1adi8uq14bqktfgl</url>
+                    <onmousedown>indeed_clk(this, &#039;3214&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>c87c32cf9f3ee751</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>12 hours ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

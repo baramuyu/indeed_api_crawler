@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>576</start>
+    <end>585</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>58</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Senior Database Administrator</jobtitle>
+                    <company>KP Recruiting Group</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>KP Recruiting Group</source>
+                    <date>Wed, 20 Jan 2016 04:02:20 GMT</date>
+                    <snippet>Exposure or understanding of BigData technologies like Hadoop, Greenplum and Spark. The DBA team works closely with Infrastructure teams such as Unix, Network...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=55e7fcc1d1be3119&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLxU5Tuz1m8XSihtqDYPmYY&amp;indpubnum=1986175114212579&amp;atk=1adi8ur9ab9n1fm7</url>
+                    <onmousedown>indeed_clk(this, &#039;4480&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>55e7fcc1d1be3119</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Data Scientist</jobtitle>
+                    <company>Greythorn IT Recruitment</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Greythorn IT Recruitment</source>
+                    <date>Sat, 23 Jan 2016 14:49:54 GMT</date>
+                    <snippet>Ability to leverage machine learning, mathematical, and statistical techniques to deliver valuable solutionsExperience with tools like R and Python, as well as...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a757bb3f6e052733&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLxU5Tuz1m8XSihtqDYPmYY&amp;indpubnum=1986175114212579&amp;atk=1adi8ur9ab9n1fm7</url>
+                    <onmousedown>indeed_clk(this, &#039;4480&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>a757bb3f6e052733</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>BI Lead</jobtitle>
+                    <company>Accentvision Technology Inc</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Thu, 18 Feb 2016 18:56:53 GMT</date>
+                    <snippet>*Position: BI Lead* *Location: San Francisco, CA* *Duration: 10 Months+* REQUIRED: · Has worked hands-on on BI Projects as Lead developer for at least 6-7</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=c232abc13da1de2c&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLxU5Tuz1m8XSihtqDYPmYY&amp;indpubnum=1986175114212579&amp;atk=1adi8ur9ab9n1fm7</url>
+                    <onmousedown>indeed_clk(this, &#039;4480&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>c232abc13da1de2c</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>21 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Production DevOps Engineer</jobtitle>
+                    <company>IAC Publishing Labs</company>
+                    <city>Oakland</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Oakland, CA</formattedLocation>
+                    <source>IAC Publishing Labs</source>
+                    <date>Wed, 10 Feb 2016 04:06:27 GMT</date>
+                    <snippet>Knowledge of technologies like Chef, Puppet, Hadoop, Docker, Nagios, Git, Bamboo, Jenkins, Zookeeper, Logstash, Elasticsearch, Graphite, Grafana, Scribe, Kakfa,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=3ae170c0e857c09f&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLxU5Tuz1m8XSihtqDYPmYY&amp;indpubnum=1986175114212579&amp;atk=1adi8ur9ab9n1fm7</url>
+                    <onmousedown>indeed_clk(this, &#039;4480&#039;);</onmousedown>
+                    <latitude>37.802197</latitude>
+                    <longitude>-122.26923</longitude>
+                    <jobkey>3ae170c0e857c09f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Oakland, CA</formattedLocationFull>
+                    <formattedRelativeTime>30 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Java Engineer</jobtitle>
+                    <company>Jobspring Partners</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Jobspring Partners</source>
+                    <date>Tue, 08 Mar 2016 20:14:38 GMT</date>
+                    <snippet>Java, Javascript, Spring, Hibernate, REST, REST API, ttd, TTD, J2ee, oracle, sql, HTML, C#, asp.net, CSS, Spring, Hibernate, MongoDB, Hadoop, Couchbase, ORM,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=17cf82df051df02c&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLxU5Tuz1m8XSihtqDYPmYY&amp;indpubnum=1986175114212579&amp;atk=1adi8ur9ab9n1fm7</url>
+                    <onmousedown>indeed_clk(this, &#039;4480&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>17cf82df051df02c</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Java Developer</jobtitle>
+                    <company>iCiX</company>
+                    <city>South San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>South San Francisco, CA</formattedLocation>
+                    <source>iCiX</source>
+                    <date>Tue, 05 Jan 2016 16:58:24 GMT</date>
+                    <snippet>Experience with NoSql and or Big Data technologies such as MongoDB, Cassandra, Hadoop. Senior Java Developer....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=9a1d50dc846e6adb&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLxU5Tuz1m8XSihtqDYPmYY&amp;indpubnum=1986175114212579&amp;atk=1adi8ur9ab9n1fm7</url>
+                    <onmousedown>indeed_clk(this, &#039;4480&#039;);</onmousedown>
+                    <latitude>37.653847</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>9a1d50dc846e6adb</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>South San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Web Software Engineer, CSR Advisor</jobtitle>
+                    <company>Opower</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Opower</source>
+                    <date>Thu, 28 Jan 2016 20:54:21 GMT</date>
+                    <snippet>JavaScript, Java, Node.js, Webpack, Koa, ES6, Angular, Zurb Foundation, Bootstrap, Protractor, Hadoop, Hbase, Hive, MySQL, Git, big data, Agile....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=5b57cd01b2d2d9e8&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLxU5Tuz1m8XSihtqDYPmYY&amp;indpubnum=1986175114212579&amp;atk=1adi8ur9ab9n1fm7</url>
+                    <onmousedown>indeed_clk(this, &#039;4480&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>5b57cd01b2d2d9e8</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Scientist</jobtitle>
+                    <company>AltX</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>AltX</source>
+                    <date>Mon, 07 Dec 2015 18:53:02 GMT</date>
+                    <snippet>ALTX provides unparalleled intelligence on the hedge fund market. Our analytics product includes: * A state of the art entity matching and probabilistic</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=cf61f8cd8a0a3e07&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLxU5Tuz1m8XSihtqDYPmYY&amp;indpubnum=1986175114212579&amp;atk=1adi8ur9ab9n1fm7</url>
+                    <onmousedown>indeed_clk(this, &#039;4480&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>cf61f8cd8a0a3e07</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Java Engineer To Lead Development of Mobile AdPlatform</jobtitle>
+                    <company>Workbridge Associates</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Workbridge Associates</source>
+                    <date>Mon, 07 Mar 2016 18:54:22 GMT</date>
+                    <snippet>MongoDB, Hadoop, Couchbase (preferred). You will be able to work with a talented and collaborative team while learning exciting new technologies like MongoDB,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=92af6c1b9054eaa2&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLxU5Tuz1m8XSihtqDYPmYY&amp;indpubnum=1986175114212579&amp;atk=1adi8ur9ab9n1fm7</url>
+                    <onmousedown>indeed_clk(this, &#039;4480&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>92af6c1b9054eaa2</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>3 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Software Engineer - Java</jobtitle>
+                    <company>Jobspring Partners</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Jobspring Partners</source>
+                    <date>Wed, 17 Feb 2016 01:09:15 GMT</date>
+                    <snippet>Software Engineer, javascript, HTML, JQuery, Java, J2EE, Scala, Hadoop, Map reduce, Hbase, Hive, Pig, Kafka, front end, full stack, Java, architecture,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=eed3e5dc5d08327b&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLxU5Tuz1m8XSihtqDYPmYY&amp;indpubnum=1986175114212579&amp;atk=1adi8ur9ab9n1fm7</url>
+                    <onmousedown>indeed_clk(this, &#039;4480&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>eed3e5dc5d08327b</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>23 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

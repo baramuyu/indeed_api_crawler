@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>751</start>
+    <end>760</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>75</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Senior Manager - Data Engineering</jobtitle>
+                    <company>Poise Inc</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Wed, 06 Jan 2016 15:43:08 GMT</date>
+                    <snippet>3+ years’ experience with the Hadoop stack. Utilize various tools &amp;amp; frameworks that enable capabilities within the Hadoop ecosystem (MapReduce, YARN, Pig, Hive,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=bc221e1a4b5bdf59&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8utoubq8vf7q</url>
+                    <onmousedown>indeed_clk(this, &#039;7045&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>bc221e1a4b5bdf59</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Engineering Manager, Big Data Systems</jobtitle>
+                    <company>Gracenote</company>
+                    <city>Emeryville</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Emeryville, CA</formattedLocation>
+                    <source>Gracenote</source>
+                    <date>Fri, 04 Mar 2016 21:52:11 GMT</date>
+                    <snippet>In your role as an Engineering Manager, Big Data Systems, you will be leading the small, highly collaborative team that develops and maintains the Gracenote...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=86c4edab27989ffc&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8utoubq8vf7q</url>
+                    <onmousedown>indeed_clk(this, &#039;7045&#039;);</onmousedown>
+                    <latitude>37.83817</latitude>
+                    <longitude>-122.30069</longitude>
+                    <jobkey>86c4edab27989ffc</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>Emeryville, CA 94608</formattedLocationFull>
+                    <formattedRelativeTime>6 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Marketing Data Analyst</jobtitle>
+                    <company>Rally Health</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Rally Health</source>
+                    <date>Thu, 28 Jan 2016 01:53:58 GMT</date>
+                    <snippet>Strong skills and experience with SQL and databases - experience with extracting data from Hadoop, Redshift, MongoDB a plus....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=86fa8eeea0a2d5b6&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8utoubq8vf7q</url>
+                    <onmousedown>indeed_clk(this, &#039;7045&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>86fa8eeea0a2d5b6</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Scientist, User Engagement</jobtitle>
+                    <company>Pandora Media, Inc.</company>
+                    <city>Oakland</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Oakland, CA</formattedLocation>
+                    <source>Pandora Media, Inc.</source>
+                    <date>Fri, 15 Jan 2016 06:23:50 GMT</date>
+                    <snippet>Experience with Spark or Hadoop technology stack. At Pandora, we&#039;re a unique collection of engineers, musicians, designers, marketers, and world-class sellers...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=78f7f584794beb4b&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8utoubq8vf7q</url>
+                    <onmousedown>indeed_clk(this, &#039;7045&#039;);</onmousedown>
+                    <latitude>37.802197</latitude>
+                    <longitude>-122.26923</longitude>
+                    <jobkey>78f7f584794beb4b</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Oakland, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Data Analyst</jobtitle>
+                    <company>The Sage Group</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>The Sage Group</source>
+                    <date>Wed, 10 Feb 2016 06:21:16 GMT</date>
+                    <snippet>Experience with SQL, SAS, Hive and Hadoop a plus. The ideal candidate combines a strong analytical background with technical skills (SQL, SAS, Hive, Hadoop) and...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=7e1f24234ab0538e&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8utoubq8vf7q</url>
+                    <onmousedown>indeed_clk(this, &#039;7045&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>7e1f24234ab0538e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Product Manager, Data</jobtitle>
+                    <company>Uber</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Uber</source>
+                    <date>Thu, 28 Jan 2016 10:07:56 GMT</date>
+                    <snippet>Your teams will own Uber’s offline data infrastructure as well as our ETL pipeline, our data modeling efforts, and all of the logging and streaming systems that...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=bd58c389332673e9&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8utoubq8vf7q</url>
+                    <onmousedown>indeed_clk(this, &#039;7045&#039;);</onmousedown>
+                    <latitude>37.771976</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>bd58c389332673e9</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94103</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Enterprise Account Manager</jobtitle>
+                    <company>Nexius</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Nexius</source>
+                    <date>Wed, 27 Jan 2016 16:00:22 GMT</date>
+                    <snippet>Consult with leading enterprise customers, and drive the strategy to create solutions with some of the top emerging technologies, including Vertica, Hadoop,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=4400612a73f03b66&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8utoubq8vf7q</url>
+                    <onmousedown>indeed_clk(this, &#039;7045&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>4400612a73f03b66</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Systems Administrator II (UW)</jobtitle>
+                    <company>Quality Planning Corporation</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Verisk Analytics</source>
+                    <date>Wed, 03 Feb 2016 04:02:13 GMT</date>
+                    <snippet>Cassandra, Hadoop, SOLR, Spark and other big data technologies. (Linux) Systems Administrator II....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=24069220da2ac59a&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8utoubq8vf7q</url>
+                    <onmousedown>indeed_clk(this, &#039;7045&#039;);</onmousedown>
+                    <latitude>37.78932</latitude>
+                    <longitude>-122.40066</longitude>
+                    <jobkey>24069220da2ac59a</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Scientist/Associate Director</jobtitle>
+                    <company>Veracyte, Inc.</company>
+                    <city>South San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>South San Francisco, CA</formattedLocation>
+                    <source>DeviceSpace.com</source>
+                    <date>Thu, 11 Feb 2016 01:11:51 GMT</date>
+                    <snippet>Experience with big data technologies and HPC such as the Hadoop ecosystem. Veracyte is pioneering molecular cytology;...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=697c5de9199cc8fc&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8utoubq8vf7q</url>
+                    <onmousedown>indeed_clk(this, &#039;7045&#039;);</onmousedown>
+                    <latitude>37.653847</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>697c5de9199cc8fc</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>South San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>29 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Principal, Business Analytics</jobtitle>
+                    <company>Nomis Solutions</company>
+                    <city>San Bruno</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Bruno, CA</formattedLocation>
+                    <source>Nomis Solutions</source>
+                    <date>Fri, 22 Jan 2016 07:49:07 GMT</date>
+                    <snippet>Familiarity with Hadoop stack, relational databases (MySQL/Oracle), and reporting &amp;amp; BI tools (Tableau, Toad). Principal, Business Analytics....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=5437dcc42dc08fbd&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bLtR8ufujBWXd2oD1lkF2xs&amp;indpubnum=1986175114212579&amp;atk=1adi8utoubq8vf7q</url>
+                    <onmousedown>indeed_clk(this, &#039;7045&#039;);</onmousedown>
+                    <latitude>37.62912</latitude>
+                    <longitude>-122.40659</longitude>
+                    <jobkey>5437dcc42dc08fbd</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Bruno, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

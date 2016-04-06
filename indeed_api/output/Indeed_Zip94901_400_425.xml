@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>401</start>
+    <end>410</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>40</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>DevOps Engineer</jobtitle>
+                    <company>Virool</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Virool</source>
+                    <date>Wed, 03 Feb 2016 03:50:21 GMT</date>
+                    <snippet>Hadoop stack is very helpful, also Spark. Virool is a programmatic video marketing platform for individuals, small businesses and global brands and their...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=ee338a8ffb17d9b4&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uobn1fcd09a</url>
+                    <onmousedown>indeed_clk(this, &#039;1505&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>ee338a8ffb17d9b4</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Back End Software Engineer</jobtitle>
+                    <company>Green Charge Networks</company>
+                    <city>San Francisco Bay Area</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco Bay Area, CA</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Thu, 03 Mar 2016 19:43:41 GMT</date>
+                    <snippet>Expert knowledge in Kafka, Spark, Spring, AWS and Hadoop. Green Charge specializes in intelligent energy storage specifically on demand charges – an issue that...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=22e443170443955e&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uobn1fcd09a</url>
+                    <onmousedown>indeed_clk(this, &#039;1505&#039;);</onmousedown>
+                    <latitude>37.826923</latitude>
+                    <longitude>-122.29121</longitude>
+                    <jobkey>22e443170443955e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco Bay Area, CA</formattedLocationFull>
+                    <formattedRelativeTime>7 days ago</formattedRelativeTime>
+                    <noUniqueUrl>true</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Content Analyst</jobtitle>
+                    <company>Gracenote</company>
+                    <city>Emeryville</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Emeryville, CA</formattedLocation>
+                    <source>Gracenote</source>
+                    <date>Fri, 19 Feb 2016 21:07:58 GMT</date>
+                    <snippet>Gracenote is the top provider of entertainment information, creating industry-leading databases of TV, movie, and music metadata for entertainment guides,</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=4bc192c5ef2c9cde&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uobn1fcd09a</url>
+                    <onmousedown>indeed_clk(this, &#039;1505&#039;);</onmousedown>
+                    <latitude>37.83817</latitude>
+                    <longitude>-122.30069</longitude>
+                    <jobkey>4bc192c5ef2c9cde</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>Emeryville, CA 94608</formattedLocationFull>
+                    <formattedRelativeTime>20 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Business Intelligence Analyst</jobtitle>
+                    <company>Rally Health</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Rally Health</source>
+                    <date>Wed, 02 Mar 2016 12:49:28 GMT</date>
+                    <snippet>Write complex SQL queries against Hadoop and Redshift. As an integral member of our team, the Business Intelligence Analyst would be responsible for the design,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=1cffa415251504b0&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uobn1fcd09a</url>
+                    <onmousedown>indeed_clk(this, &#039;1505&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>1cffa415251504b0</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>8 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Data Center (Middleware engineer) Websphere, JBos</jobtitle>
+                    <company>Paul May and Associates</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Paul May and Associates</source>
+                    <date>Tue, 09 Feb 2016 20:56:43 GMT</date>
+                    <snippet>Consultant-Data Center (Middleware engineer) Websphere, JBoss, Location - anywhere near a major airport ( Ideally San Francisco or Denver) Rate flexible up</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=35dd9063ad667d58&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uobn1fcd09a</url>
+                    <onmousedown>indeed_clk(this, &#039;1505&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>35dd9063ad667d58</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Business Intelligence Developer</jobtitle>
+                    <company>Ubisoft</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Ubisoft</source>
+                    <date>Sat, 23 Jan 2016 03:01:46 GMT</date>
+                    <snippet>Informatica, Teradata, Hadoop, SQL. Ubisoft, a global leader in the video games and entertainment software industry, is currently seeking a full-time....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=1feac3491f40d4d6&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uobn1fcd09a</url>
+                    <onmousedown>indeed_clk(this, &#039;1505&#039;);</onmousedown>
+                    <latitude>37.779797</latitude>
+                    <longitude>-122.3935</longitude>
+                    <jobkey>1feac3491f40d4d6</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94107</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Software Engineer (PHP/Java)</jobtitle>
+                    <company>Capital Markets</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>CMP.jobs</source>
+                    <date>Wed, 02 Mar 2016 07:48:56 GMT</date>
+                    <snippet>What you’ll be doing Imagine, implement, test, and iterate on new features Scaling a web application that is used by some of the world’s largest brands</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=1c0c7e8f3e832a77&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uobn1fcd09a</url>
+                    <onmousedown>indeed_clk(this, &#039;1505&#039;);</onmousedown>
+                    <latitude>37.78846</latitude>
+                    <longitude>-122.4011</longitude>
+                    <jobkey>1c0c7e8f3e832a77</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94108</formattedLocationFull>
+                    <formattedRelativeTime>8 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Build and Release/DevOps Engineer</jobtitle>
+                    <company>Workbridge Associates</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Workbridge Associates</source>
+                    <date>Tue, 08 Mar 2016 00:54:56 GMT</date>
+                    <snippet>Networking, Python scripting and exposure to Hadoop – a plus. Though Big Data experience is not required, this position will offer you training and hands-on...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=180b6b3e40b3aef5&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uobn1fcd09a</url>
+                    <onmousedown>indeed_clk(this, &#039;1505&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>180b6b3e40b3aef5</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>3 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Sr. Database Administrator</jobtitle>
+                    <company>NEXON M</company>
+                    <city>Emeryville</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Emeryville, CA</formattedLocation>
+                    <source>NEXON M</source>
+                    <date>Wed, 13 Jan 2016 06:16:42 GMT</date>
+                    <snippet>NEXON M is a mobile game publisher based in Emeryville. Founded in 2013, NEXON M focuses on free-to-play games for mobile and counts some of the world’s best</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=2e7849dc948b12d4&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uobn1fcd09a</url>
+                    <onmousedown>indeed_clk(this, &#039;1505&#039;);</onmousedown>
+                    <latitude>37.82967</latitude>
+                    <longitude>-122.28022</longitude>
+                    <jobkey>2e7849dc948b12d4</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Emeryville, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>DevOps Engineer</jobtitle>
+                    <company>Jobspring Partners</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Jobspring Partners</source>
+                    <date>Tue, 08 Mar 2016 20:14:40 GMT</date>
+                    <snippet>AWs, AWS Certification, Postgresql, postgres, Cassandra, Hadoop, solr, rundeck, Jenkins, New Relic, Ruby, Bash, Python, Node.js, Java, Git, NginX, Varnish....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=386f42e0c9bef651&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bNL8J83rMm9p3EOUJ2EIf00&amp;indpubnum=1986175114212579&amp;atk=1adi8uobn1fcd09a</url>
+                    <onmousedown>indeed_clk(this, &#039;1505&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>386f42e0c9bef651</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>

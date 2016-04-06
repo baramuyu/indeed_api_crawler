@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+<query>hadoop</query>
+    <location>94901</location>
+<dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>1057</totalresults>
+    <start>901</start>
+    <end>910</end>
+    <radius>25</radius>
+    <clickedCategories></clickedCategories>
+    <pageNumber>90</pageNumber>
+    <results>
+        
+                <result>
+                    <jobtitle>Full Stack Developer (JavaScript, Node.js) [San Francisco, CA]</jobtitle>
+                    <company>WizioTec</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>WizioTec</source>
+                    <date>Tue, 12 Jan 2016 11:36:50 GMT</date>
+                    <snippet>A lot of what they are building involves scaling to massive volumes of web transactions and analytics/metrics which will require technologies like AWS, Hadoop,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=d4f2f61de4845a59&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv9abqor871</url>
+                    <onmousedown>indeed_clk(this, &#039;8565&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>d4f2f61de4845a59</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Senior Software Engineer in Test, DS - Communities</jobtitle>
+                    <company>Salesforce</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Salesforce</source>
+                    <date>Fri, 12 Feb 2016 02:20:23 GMT</date>
+                    <snippet>Experience working with large datasets, preferably using tools like Hadoop, Pig or Hive. Founded in 1999, salesforce.com is the enterprise cloud computing...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=7112fa47f480583b&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv9abqor871</url>
+                    <onmousedown>indeed_clk(this, &#039;8565&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>7112fa47f480583b</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>28 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Hadoop Sales Engineer- Bay Area Strategic Account</jobtitle>
+                    <company>Cloudera</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Cloudera</source>
+                    <date>Wed, 23 Dec 2015 07:05:56 GMT</date>
+                    <snippet>Database, distributed systems, Java programming, data analytics, and previous Hadoop experience are all huge pluses....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=4826ba134c72cfe2&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv9abqor871</url>
+                    <onmousedown>indeed_clk(this, &#039;8565&#039;);</onmousedown>
+                    <latitude>37.79269</latitude>
+                    <longitude>-122.40168</longitude>
+                    <jobkey>4826ba134c72cfe2</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94104</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Engineering Manager</jobtitle>
+                    <company>Sparkcentral</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Sparkcentral</source>
+                    <date>Wed, 20 Jan 2016 06:49:51 GMT</date>
+                    <snippet>Why Join Us? We all know that excellent customer service keeps customers coming back for more. At Sparkcentral, we really get that, and our small company</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=6b6bb728452b9f9d&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv9abqor871</url>
+                    <onmousedown>indeed_clk(this, &#039;8565&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>6b6bb728452b9f9d</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Backend Engineer</jobtitle>
+                    <company>Elevate Recruiting Group</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Elevate Recruiting Group</source>
+                    <date>Fri, 22 Jan 2016 07:22:05 GMT</date>
+                    <snippet>Good familiarity with Redis, Cassandra, HBase, Hadoop, Gearman Hands on experience with AWS EC2, RDS, CloudFormation Strong knowledge of SQL and NoSQL....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=beb3c736dbeb7a82&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv9abqor871</url>
+                    <onmousedown>indeed_clk(this, &#039;8565&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>beb3c736dbeb7a82</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Big Data Architect ( Hadoop / ELT / BI )</jobtitle>
+                    <company>Redolent, Inc</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Redolent, Inc</source>
+                    <date>Sat, 23 Jan 2016 09:39:53 GMT</date>
+                    <snippet>Big Data Architect ( Hadoop / ELT / BI ). Deep expertise in Hadoop ecosystem and NoSQ L database technologies....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=d9ad0d9931ee87ff&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv9abqor871</url>
+                    <onmousedown>indeed_clk(this, &#039;8565&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>d9ad0d9931ee87ff</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>2016 Summer Intern - Data Science Apps</jobtitle>
+                    <company>Model Metrics</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Model Metrics</source>
+                    <date>Sun, 21 Feb 2016 02:25:45 GMT</date>
+                    <snippet>Proficient with PIG to query Hadoop. The Product Data Science (PDS) team within salesforce.com Technology &amp;amp; Products seeks an outstanding Data Science Intern...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=3db54c3a69c439b9&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv9abqor871</url>
+                    <onmousedown>indeed_clk(this, &#039;8565&#039;);</onmousedown>
+                    <latitude>37.792915</latitude>
+                    <longitude>-122.39254</longitude>
+                    <jobkey>3db54c3a69c439b9</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>19 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Intern - Business Analyst</jobtitle>
+                    <company>Biorad</company>
+                    <city>Hercules</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Hercules, CA</formattedLocation>
+                    <source>Biorad</source>
+                    <date>Tue, 09 Feb 2016 01:29:44 GMT</date>
+                    <snippet>Experience with Salesforce.com, Marketo platforms, SAP business analytics, Hadoop, “Data Lakes”. Bio-Rad is looking for an Intern - Business Analyst....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=c8fa3ffce230297e&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv9abqor871</url>
+                    <onmousedown>indeed_clk(this, &#039;8565&#039;);</onmousedown>
+                    <latitude>38.016483</latitude>
+                    <longitude>-122.28571</longitude>
+                    <jobkey>c8fa3ffce230297e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Hercules, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>Director of Data Science and Machine Learning</jobtitle>
+                    <company>Workbridge Associates</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Workbridge Associates</source>
+                    <date>Mon, 14 Dec 2015 20:31:44 GMT</date>
+                    <snippet>Strong experience R, Hadoop, Hive, Impala, SQL, Apachee, Spark, Python and MySQL. Profitable, pre-Series A start up providing predictive marketing and sales...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=5e93a0ccc7fdee3f&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv9abqor871</url>
+                    <onmousedown>indeed_clk(this, &#039;8565&#039;);</onmousedown>
+                    <latitude>37.774727</latitude>
+                    <longitude>-122.41758</longitude>
+                    <jobkey>5e93a0ccc7fdee3f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA</formattedLocationFull>
+                    <formattedRelativeTime>30+ days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+
+                <result>
+                    <jobtitle>2016 Summer Intern - Data Science Engineering</jobtitle>
+                    <company>Model Metrics</company>
+                    <city>San Francisco</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Francisco, CA</formattedLocation>
+                    <source>Model Metrics</source>
+                    <date>Sun, 21 Feb 2016 02:25:45 GMT</date>
+                    <snippet>Implement ML models at scale using Hadoop, Pig, Hive, HBase, Spark. Design and develop tailored data structures in database and Hadoop....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=2b3f83f985e8bdcf&amp;qd=1yOGNK9mYZgkirassTMJNfyBfnybpN_sHOcRuDkDLUYpMZYwWfDzQKTlYpv2cJLn5X4erIRPY3HnkRNy9T_-bMa3V_NmzWq0PA2FY--lBUc&amp;indpubnum=1986175114212579&amp;atk=1adi8uv9abqor871</url>
+                    <onmousedown>indeed_clk(this, &#039;8565&#039;);</onmousedown>
+                    <latitude>37.792915</latitude>
+                    <longitude>-122.39254</longitude>
+                    <jobkey>2b3f83f985e8bdcf</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>San Francisco, CA 94105</formattedLocationFull>
+                    <formattedRelativeTime>19 days ago</formattedRelativeTime>
+                    <noUniqueUrl>false</noUniqueUrl>
+                </result>
+</results>
+
+    </response>
